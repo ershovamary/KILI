@@ -1,0 +1,941 @@
+,#,FORM,LEMMA,GRAM,COMMENT,CHECKED,RIGHT1,RIGHT2,RIGHT3,RIGHT4,RIGHT5,RIGHT6,POS,AUTO_LEMMA,AUTO_GRAM
+45790,#doc=describingvideo2.txt,,,,,,,,,,,,,,
+45791,1,﻿,﻿,﻿,﻿,PUNC,3,предик,_,_,,,,,
+45792,2,SViBLASH,SVIBLASH,NONLEX,,NONLEX,1,аппоз,_,_,,,NONLEX,SVIBLASH,NONLEX
+45793,3,@,@,@,,PUNC,0,ROOT,_,_,,,@,@,@
+45794,4,Итак,ИТАК,PARENTH,,CONJ,3,сравнит,_,_,,,CONJ,ИТАК,CONJ
+45795,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+45796,6,сегодня,СЕГОДНЯ,ADV -,,ADV -,0,ROOT,_,_,,,ADV,СЕГОДНЯ,ADV -
+45797,7,мы,МЫ,SPRO pl 1p - nom,,SPRO pl 1p - nom,0,ROOT,_,_,,,SPRO,МЫ,SPRO pl 1p - nom
+45798,8,будем,БЫТЬ,V ipf - pl fut - 1p,,V ipf - pl imper - 1p,10,опред,_,_,,,V,БЫТЬ,V ipf - pl imper - 1p
+45799,9,<,<,<,,PUNC,10,опред,_,_,,,<,<,<
+45800,10,distinct,DISTINCT,NONLEX,,NONLEX,12,композ,_,_,,,NONLEX,DISTINCT,NONLEX
+45801,11,form,FORM,NONLEX,,NONLEX,10,аппоз,_,_,,,NONLEX,FORM,NONLEX
+45802,12,#ERROR!,#ERROR!,#ERROR!,,PUNC,14,1-компл,_,_,,,#ERROR!,#ERROR!,#ERROR!
+45803,13,	,_,PUNC,,14,PUNC,_,_,,,,_,_,PUNC
+45804,14,стреть,СТРЕТЬ,distort,,V pf - - inf - -,17,1-компл,_,_,,,V,СТРЕТЬ,V pf - - inf - -
+45805,15,	,_,PUNC,,14,PUNC,_,_,,,,_,_,PUNC
+45806,16,>,>,>,,PUNC,19,опред,_,_,,,>,>,>
+45807,17,смотреть,СМОТРЕТЬ,V ipf - - inf - -,,V ipf - - inf - -,16,1-компл,_,_,,,V,СМОТРЕТЬ,V ipf - - inf - -
+45808,18,<,<,<,,PUNC,17,1-компл,_,_,,,<,<,<
+45809,19,/,/,/,,PUNC,0,ROOT,_,_,,,/,/,/
+45810,20,distinct,DISTINCT,NONLEX,,NONLEX,19,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+45811,21,>,>,>,,PUNC,19,опред,_,_,,,>,>,>
+45812,22,видео,ВИДЕО,S n inan acc sg,,S f inan nonflex nonflex,21,1-компл,_,_,,,S,ВИДЕО,S f inan nonflex nonflex
+45813,23,под,ПОД,PR,,PR,21,2-компл,_,_,,,PR,ПОД,PR
+45814,24,названием...,НАЗВАНИЕ...,S m inan ins sg,,S m inan gen sg,23,предл,_,_,,,S,НАЗВАНИЕ...,S m inan gen sg
+45815,25,да,ДА,PART,,CONJ,19,сочин,_,_,,,CONJ,ДА,CONJ
+45816,26,неважно,НЕВАЖНО,PRAEDIC,,ADV -,25,соч-союзн,_,_,,,ADV,НЕВАЖНО,ADV -
+45817,27,.,.,SENT,,SENT,26,PUNC,_,_,,,SENT,.,SENT
+45818,,,,,,,,,,,,,,,
+45819,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,2,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+45820,2,@,@,@,,PUNC,6,1-компл,_,_,,,@,@,@
+45821,3,Итак,ИТАК,PARENTH,,CONJ,2,сравнит,_,_,,,CONJ,ИТАК,CONJ
+45822,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+45823,5,тут,ТУТ,ADVPRO,,ADV -,6,обст,_,_,,,ADV,ТУТ,ADV -
+45824,6,появился,ПОЯВИТЬСЯ,V pf praet sg indic m 3p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ПОЯВИТЬСЯ,V pf praet sg indic m -
+45825,7,какой-то,КАКОЙ-ТО,APRO - nom sg plen m 3p,,A - nom sg plen m -,9,опред,_,_,,,A,КАКОЙ-ТО,A - nom sg plen m -
+45826,8,зубастый,ЗУБАСТЫЙ,A - nom sg plen m 3p,,A - nom sg plen m -,9,опред,_,_,,,A,ЗУБАСТЫЙ,A - nom sg plen m -
+45827,9,жук,ЖУК,S m anim nom sg,,S m anim nom sg,6,предик,_,_,,,S,ЖУК,S m anim nom sg
+45828,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+45829,11,который,КОТОРЫЙ,APRO - nom sg plen m 3p,,A - nom sg plen m -,12,предик,_,_,,,A,КОТОРЫЙ,A - nom sg plen m -
+45830,12,моргает,МОРГАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,6,сент-соч,_,_,,,V,МОРГАТЬ,V ipf praes sg indic - 3p
+45831,13,",",",",",",,PUNC,12,PUNC,_,_,,,",",",",","
+45832,14,смотрит,СМОТРЕТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,12,сент-соч,_,_,,,V,СМОТРЕТЬ,V ipf praes sg indic - 3p
+45833,15,на...,НА...,PR,,PR,14,1-компл,_,_,,,PR,НА...,PR
+45834,16,что,ЧТО,SPRO n inan acc sg,,S n inan acc sg,15,предл,_,_,,,S,ЧТО,S n inan acc sg
+45835,17,это,ЭТО,SPRO n inan nom sg,,S n - nom sg,0,ROOT,_,_,,,S,ЭТО,S n - nom sg
+45836,18,вообще,ВООБЩЕ,APRO -,,ADV -,17,огранич,_,_,,,ADV,ВООБЩЕ,ADV -
+45837,19,?,?,SENT,,SENT,18,PUNC,_,_,,,SENT,?,SENT
+45838,,,,,,,,,,,,,,,
+45839,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,5,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+45840,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+45841,3,походу,ПОХОДУ,PARENTH,,S m inan dat sg,1,вводн,_,_,,,S,ПОХОД,S m inan dat sg
+45842,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+45843,5,учёный,УЧЕНЫЙ,S m anim nom sg,,S m anim nom sg,0,ROOT,_,_,,,S,УЧЕНЫЙ,S m anim nom sg
+45844,6,какой-то,КАКОЙ-ТО,APRO - nom sg plen m 3p,,A - nom sg plen m -,5,опред,_,_,,,A,КАКОЙ-ТО,A - nom sg plen m -
+45845,7,;,;,SENT,,SENT,6,PUNC,_,_,,,SENT,;,SENT
+45846,,,,,,,,,,,,,,,
+45847,1,у,У,PR,,PR,0,ROOT,_,_,,,PR,У,PR
+45848,2,него,ОН,SPRO sg 3p m gen,,SPRO sg 3p m acc,1,предл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+45849,3,там,ТАМ,ADVPRO,,ADV -,1,обст,_,_,,,ADV,ТАМ,ADV -
+45850,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+45851,5,знаете,ЗНАТЬ,V ipf praes pl indic - 2p,,V ipf praes pl indic - 2p,1,предик,_,_,,,V,ЗНАТЬ,V ipf praes pl indic - 2p
+45852,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+45853,7,на,НА,PR,,PR,11,вводн,_,_,,,PR,НА,PR
+45854,8,стене,СТЕНА,S f inan loc sg,,S f inan loc sg,7,предл,_,_,,,S,СТЕНА,S f inan loc sg
+45855,9,там,ТАМ,ADVPRO,,ADV -,11,обст,_,_,,,ADV,ТАМ,ADV -
+45856,10,разные,РАЗНЫЙ,A - acc pl plen - inan,,A - acc pl plen - inan,11,опред,_,_,,,A,РАЗНЫЙ,A - acc pl plen - inan
+45857,11,чертежи,ЧЕРТЕЖ,S m inan nom pl,,S m inan acc pl,5,1-компл,_,_,,,S,ЧЕРТЕЖ,S m inan acc pl
+45858,12,",",",",",",,PUNC,11,PUNC,_,_,,,",",",",","
+45859,13,ч...,Ч...,S - - nonflex nonflex,,S m inan nonflex nonflex,11,сочин,_,_,,,S,Ч...,S m inan nonflex nonflex
+45860,14,головы,ГОЛОВА,S f inan gen sg,,S f inan gen sg,13,1-компл,_,_,,,S,ГОЛОВА,S f inan gen sg
+45861,15,человеческого,ЧЕЛОВЕЧЕСКИЙ,A - gen sg plen n inan,,A - gen sg plen n -,16,опред,_,_,,,A,ЧЕЛОВЕЧЕСКИЙ,A - gen sg plen n -
+45862,16,тела,ТЕЛО,S n inan gen sg,,S n inan gen sg,14,квазиагент,_,_,,,S,ТЕЛО,S n inan gen sg
+45863,17,;,;,SENT,,SENT,16,PUNC,_,_,,,SENT,;,SENT
+45864,,,,,,,,,,,,,,,
+45865,1,как-то,КАК-ТО,ADVPRO,,ADV -,2,огранич,_,_,,,ADV,КАК-ТО,ADV -
+45866,2,странно,СТРАННО,ADV,,ADV -,0,ROOT,_,_,,,ADV,СТРАННО,ADV -
+45867,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+45868,4,ведь,ВЕДЬ,CONJ,,CONJ,2,разъяснит,_,_,,,CONJ,ВЕДЬ,CONJ
+45869,5,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,6,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+45870,6,жук,ЖУК,S m anim nom sg,,S m anim nom sg,4,соч-союзн,_,_,,,S,ЖУК,S m anim nom sg
+45871,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+45872,8,причём,ПРИЧЕМ,CONJ,,CONJ,2,сент-соч,_,_,,,CONJ,ПРИЧЕМ,CONJ
+45873,9,тут,ТУТ,ADVPRO,,ADV -,10,обст,_,_,,,ADV,ТУТ,ADV -
+45874,10,человек,ЧЕЛОВЕК,S m anim nom sg,,S m anim nom sg,8,соч-союзн,_,_,,,S,ЧЕЛОВЕК,S m anim nom sg
+45875,11,?,?,SENT,,SENT,10,PUNC,_,_,,,SENT,?,SENT
+45876,,,,,,,,,,,,,,,
+45877,1,Часы,ЧАСЫ,S - inan nom pl,,S - inan nom pl,0,ROOT,_,_,,,S,ЧАСЫ,S - inan nom pl
+45878,2,какие-то,КАКОЙ-ТО,APRO - nom pl plen - inan,,A - nom pl plen - -,0,ROOT,_,_,,,A,КАКОЙ-ТО,A - nom pl plen - -
+45879,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+45880,4,песочные,ПЕСОЧНЫЙ,APRO - nom pl plen - inan,,A - nom pl plen - -,2,сочин,_,_,,,A,ПЕСОЧНЫЙ,A - nom pl plen - -
+45881,5,.,.,SENT,,SENT,4,PUNC,_,_,,,SENT,.,SENT
+45882,,,,,,,,,,,,,,,
+45883,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,4,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+45884,2,на,НА,PR,,PR,4,обст,_,_,,,PR,НА,PR
+45885,3,них,ОНИ,SPRO pl - - loc,,SPRO pl - - loc,2,предл,_,_,,,SPRO,ОНИ,SPRO pl - - loc
+45886,4,смотрит,СМОТРЕТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,СМОТРЕТЬ,V ipf praes sg indic - 3p
+45887,5,вот,ВОТ,PART,,PART,6,огранич,_,_,,,PART,ВОТ,PART
+45888,6,такими,ТАКОЙ,A - ins pl plen - -,,A - ins pl plen - -,8,опред,_,_,,,A,ТАКОЙ,A - ins pl plen - -
+45889,7,вот,ВОТ,PART,,PART,8,огранич,_,_,,,PART,ВОТ,PART
+45890,8,глазами,ГЛАЗ,S m inan ins pl,,S m inan ins pl,4,обст,_,_,,,S,ГЛАЗ,S m inan ins pl
+45891,9,.,.,SENT,,SENT,8,PUNC,_,_,,,SENT,.,SENT
+45892,,,,,,,,,,,,,,,
+45893,1,У,У,PR,,PR,0,ROOT,_,_,,,PR,У,PR
+45894,2,него,ОН,SPRO sg 3p m gen,,SPRO sg 3p m acc,1,предл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+45895,3,там,ТАМ,ADVPRO,,ADV -,1,обст,_,_,,,ADV,ТАМ,ADV -
+45896,4,книга,КНИГА,S f inan nom sg,,S f inan nom sg,1,предик,_,_,,,S,КНИГА,S f inan nom sg
+45897,5,какая-то,КАКОЙ-ТО,APRO - nom sg plen f -,,A - nom sg plen f -,4,опред,_,_,,,A,КАКОЙ-ТО,A - nom sg plen f -
+45898,6,в,В,PR,,PR,5,атриб,_,_,,,PR,В,PR
+45899,7,руках,РУКА,S f inan loc pl,,S f inan loc pl,6,предл,_,_,,,S,РУКА,S f inan loc pl
+45900,8,;,;,SENT,,SENT,7,PUNC,_,_,,,SENT,;,SENT
+45901,,,,,,,,,,,,,,,
+45902,1,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,3,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+45903,2,её,ОНА,SPRO sg 3p f acc,,SPRO sg 3p f acc,3,1-компл,_,_,,,SPRO,ОНА,SPRO sg 3p f acc
+45904,3,открывает,ОТКРЫВАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ОТКРЫВАТЬ,V ipf praes sg indic - 3p
+45905,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+45906,5,смотрит,СМОТРЕТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,3,сочин,_,_,,,V,СМОТРЕТЬ,V ipf praes sg indic - 3p
+45907,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+45908,7,там,ТАМ,ADVPRO,,ADV -,5,обст,_,_,,,ADV,ТАМ,ADV -
+45909,8,на,НА,PR,,PR,5,1-компл,_,_,,,PR,НА,PR
+45910,9,эльфийском,ЭЛЬФИЙСКИЙ,A - loc sg plen m 3p,,A - loc sg plen m -,8,предл,_,_,,,A,ЭЛЬФИЙСКИЙ,A - loc sg plen m -
+45911,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+45912,11,походу,ПОХОДУ,PARENTH,,S m inan dat sg,5,сочин,_,_,,,S,ПОХОД,S m inan dat sg
+45913,12,",",",",",",,PUNC,11,PUNC,_,_,,,",",",",","
+45914,13,написано,НАПИСАТЬ,PARTCP pf praet - sg brev n pass -,,PARTCP pf praet - sg brev n pass -,3,пасс-анал,_,_,,,PARTCP,НАПИСАТЬ,PARTCP pf praet - sg brev n pass -
+45915,14,;,;,SENT,,SENT,13,PUNC,_,_,,,SENT,;,SENT
+45916,,,,,,,,,,,,,,,
+45917,1,не,НЕ,PART,,PART,2,огранич,_,_,,,PART,НЕ,PART
+45918,2,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,0,ROOT,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+45919,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+45920,4,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,6,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+45921,5,же,ЖЕ,PART,,PART,4,огранич,_,_,,,PART,ЖЕ,PART
+45922,6,жук,ЖУК,S m anim nom sg,,S m anim nom sg,2,сент-соч,_,_,,,S,ЖУК,S m anim nom sg
+45923,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+45924,8,причём,ПРИЧЕМ,CONJ,,CONJ,6,сочин,_,_,,,CONJ,ПРИЧЕМ,CONJ
+45925,9,здесь,ЗДЕСЬ,ADVPRO,,ADV -,10,обст,_,_,,,ADV,ЗДЕСЬ,ADV -
+45926,10,эльфийский,ЭЛЬФИЙСКИЙ,A - nom sg plen m 3p,,A - nom sg plen m -,8,соч-союзн,_,_,,,A,ЭЛЬФИЙСКИЙ,A - nom sg plen m -
+45927,11,?,?,SENT,,SENT,10,PUNC,_,_,,,SENT,?,SENT
+45928,,,,,,,,,,,,,,,
+45929,1,Муку,МУКА,S f inan acc sg,,S f inan acc sg,15,1-компл,_,_,,,S,МУКА,S f inan acc sg
+45930,2,какую-то,КАКОЙ-ТО,APRO - acc sg plen f inan,,A - acc sg plen f inan,3,опред,_,_,,,A,КАКОЙ-ТО,A - acc sg plen f inan
+45931,3,<,<,<,,PUNC,15,2-компл,_,_,,,<,<,<
+45932,4,distinct,DISTINCT,NONLEX,,NONLEX,3,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+45933,5,form,FORM,NONLEX,,NONLEX,4,аппоз,_,_,,,NONLEX,FORM,NONLEX
+45934,6,#ERROR!,#ERROR!,#ERROR!,,PUNC,3,сочин,_,_,,,#ERROR!,#ERROR!,#ERROR!
+45935,7,	,_,PUNC,,8,PUNC,_,_,,,,_,_,PUNC
+45936,8,достаё,ДОСТАВАТЬ,distort,,S m inan loc sg,6,аппоз,_,_,,,S,ДОСТАЙ,S m inan loc sg
+45937,9,	,_,PUNC,,8,PUNC,_,_,,,,_,_,PUNC
+45938,10,>,>,>,,PUNC,11,предик,_,_,,,>,>,>
+45939,11,достаёт,ДОСТАВАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,3,релят,_,_,,,V,ДОСТАВАТЬ,V ipf praes sg indic - 3p
+45940,12,<,<,<,,PUNC,11,1-компл,_,_,,,<,<,<
+45941,13,/,/,/,,PUNC,14,опред,_,_,,,/,/,/
+45942,14,distinct,DISTINCT,NONLEX,,NONLEX,15,предик,_,_,,,NONLEX,DISTINCT,NONLEX
+45943,15,>,>,>,,PUNC,0,ROOT,_,_,,,>,>,>
+45944,16,...,...,SENT,,SENT,15,PUNC,_,_,,,SENT,...,SENT
+45945,,,,,,,,,,,,,,,
+45946,1,Или,ИЛИ,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,ИЛИ,CONJ
+45947,2,это,ЭТО,SPRO n inan nom sg,,S n - nom sg,16,предик,_,_,,,S,ЭТО,S n - nom sg
+45948,3,кубик,КУБИК,S m inan nom sg,,S m inan nom sg,7,композ,_,_,,,S,КУБИК,S m inan nom sg
+45949,4,<,<,<,,PUNC,5,опред,_,_,,,<,<,<
+45950,5,distinct,DISTINCT,NONLEX,,NONLEX,3,ном-аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+45951,6,form,FORM,NONLEX,,NONLEX,5,аппоз,_,_,,,NONLEX,FORM,NONLEX
+45952,7,#ERROR!,#ERROR!,#ERROR!,,PUNC,14,опред,_,_,,,#ERROR!,#ERROR!,#ERROR!
+45953,8,	,_,PUNC,,9,PUNC,_,_,,,,_,_,PUNC
+45954,9,ка,КАКОЙ-ТО,distort,,PART,11,огранич,_,_,,,PART,КА,PART
+45955,10,	,_,PUNC,,11,PUNC,_,_,,,,_,_,PUNC
+45956,11,>,>,>,,PUNC,14,опред,_,_,,,>,>,>
+45957,12,какой-то,КАКОЙ-ТО,A - nom sg plen f -,,A - gen sg plen f -,14,опред,_,_,,,A,КАКОЙ-ТО,A - gen sg plen f -
+45958,13,<,<,<,,PUNC,14,опред,_,_,,,<,<,<
+45959,14,/,/,/,,PUNC,16,1-компл,_,_,,,/,/,/
+45960,15,distinct,DISTINCT,NONLEX,,NONLEX,14,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+45961,16,>,>,>,,PUNC,1,соч-союзн,_,_,,,>,>,>
+45962,17,...?,...?,SENT,,SENT,16,PUNC,_,_,,,SENT,...?,SENT
+45963,,,,,,,,,,,,,,,
+45964,1,А,А,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,А,CONJ
+45965,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+45966,3,нет,НЕТ,PART,,PART,21,вводн,_,_,,,PART,НЕТ,PART
+45967,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+45968,5,это,ЭТО,SPRO n - nom sg,,S n - nom sg,21,предик,_,_,,,S,ЭТО,S n - nom sg
+45969,6,<,<,<,,PUNC,7,опред,_,_,,,<,<,<
+45970,7,distinct,DISTINCT,NONLEX,,NONLEX,9,композ,_,_,,,NONLEX,DISTINCT,NONLEX
+45971,8,form,FORM,NONLEX,,NONLEX,7,аппоз,_,_,,,NONLEX,FORM,NONLEX
+45972,9,#ERROR!,#ERROR!,#ERROR!,,PUNC,13,композ,_,_,,,#ERROR!,#ERROR!,#ERROR!
+45973,10,	,_,PUNC,,9,PUNC,_,_,,,,_,_,PUNC
+45974,11,всё,ВСЕ,ADV -,,ADV -,13,обст,_,_,,,ADV,ВСЕ,ADV -
+45975,12,-,-,-,,PUNC,11,PUNC,_,_,,,-,-,-
+45976,13,тки,ВСЁ-ТАКИ,distort,Слитно,V ipf - sg imper - 2p,15,композ,_,_,,,V,ТКАТЬ,V ipf - sg imper - 2p
+45977,14,	,_,PUNC,,13,PUNC,_,_,,,,_,_,PUNC
+45978,15,>,>,>,,PUNC,18,опред,_,_,,,>,>,>
+45979,16,всё-таки,ВСЕ-ТАКИ,PART,,PART,17,огранич,_,_,,,PART,ВСЕ-ТАКИ,PART
+45980,17,<,<,<,,PUNC,18,опред,_,_,,,<,<,<
+45981,18,/,/,/,,PUNC,20,2-компл,_,_,,,/,/,/
+45982,19,distinct,DISTINCT,NONLEX,,NONLEX,18,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+45983,20,>,>,>,,PUNC,21,опред,_,_,,,>,>,>
+45984,21,мука,МУКА,S f inan nom sg,,S f inan nom sg,1,соч-союзн,_,_,,,S,МУКА,S f inan nom sg
+45985,22,!,!,SENT,,SENT,21,PUNC,_,_,,,SENT,!,SENT
+45986,,,,,,,,,,,,,,,
+45987,1,Метамфетамин,МЕТАМФЕТАМИН,S m inan gen sg,,S m inan gen sg,3,1-компл,_,_,,,S,МЕТАМФЕТАМИН,S m inan gen sg
+45988,2,тоже,ТОЖЕ,PART,,PART,3,огранич,_,_,,,PART,ТОЖЕ,PART
+45989,3,достал,ДОСТАТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ДОСТАТЬ,V pf praet sg indic m -
+45990,4,.,.,SENT,,SENT,3,PUNC,_,_,,,SENT,.,SENT
+45991,,,,,,,,,,,,,,,
+45992,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+45993,2,делает,ДЕЛАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,1,соч-союзн,_,_,,,V,ДЕЛАТЬ,V ipf praes sg indic - 3p
+45994,3,из,ИЗ,PR,,PR,2,2-компл,_,_,,,PR,ИЗ,PR
+45995,4,всего,ВСЁ,SPRO sg 3p n gen,,A - acc sg plen m anim,5,опред,_,_,,,A,ВЕСЬ,A - acc sg plen m anim
+45996,5,этого,ЭТО,APRO n inan gen sg,,S n inan gen sg,3,предл,_,_,,,S,ЭТО,S n inan gen sg
+45997,6,пирог,ПИРОГ,S m inan acc sg,,S m inan acc sg,2,1-компл,_,_,,,S,ПИРОГ,S m inan acc sg
+45998,7,что,ЧТО,CONJ,,CONJ,6,1-компл,_,_,,,CONJ,ЧТО,CONJ
+45999,8,ли,ЛИ,PART,,PART,7,огранич,_,_,,,PART,ЛИ,PART
+46000,9,какой-то,КАКОЙ-ТО,A - nom sg plen m -,,A - nom sg plen m -,7,подч-союзн,_,_,,,A,КАКОЙ-ТО,A - nom sg plen m -
+46001,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46002,11,не,НЕ,PART,,PART,12,огранич,_,_,,,PART,НЕ,PART
+46003,12,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,2,сочин,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46004,13,.,.,SENT,,SENT,12,PUNC,_,_,,,SENT,.,SENT
+46005,,,,,,,,,,,,,,,
+46006,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,3,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46007,2,@,@,@,,PUNC,3,1-компл,_,_,,,@,@,@
+46008,3,Знаете,ЗНАТЬ,V ipf praes pl indic - 2p,,V ipf praes pl indic - 2p,0,ROOT,_,_,,,V,ЗНАТЬ,V ipf praes pl indic - 2p
+46009,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46010,5,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,14,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46011,6,ещё,ЕЩЕ,PART,,ADV -,7,огранич,_,_,,,ADV,ЕЩЕ,ADV -
+46012,7,в,В,PR,,PR,14,обст,_,_,,,PR,В,PR
+46013,8,такой,ТАКОЙ,APRO - loc sg plen f 3p,,A - loc sg plen f -,10,опред,_,_,,,A,ТАКОЙ,A - loc sg plen f -
+46014,9,странной,СТРАННЫЙ,A - loc sg plen f 3p,,A - loc sg plen f -,10,опред,_,_,,,A,СТРАННЫЙ,A - loc sg plen f -
+46015,10,маске,МАСКА,S f inan loc sg,,S f inan loc sg,7,предл,_,_,,,S,МАСКА,S f inan loc sg
+46016,11,",",",",",",,PUNC,10,PUNC,_,_,,,",",",",","
+46017,12,и,И,CONJ,,CONJ,7,сочин,_,_,,,CONJ,И,CONJ
+46018,13,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,12,соч-союзн,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46019,14,её,ОНА,SPRO sg 3p f acc,,SPRO sg 3p f acc,3,1-компл,_,_,,,SPRO,ОНА,SPRO sg 3p f acc
+46020,15,",",",",",",,PUNC,14,PUNC,_,_,,,",",",",","
+46021,16,типа,ТИПА,PARENTH,,S m inan gen sg,14,атриб,_,_,,,S,ТИП,S m inan gen sg
+46022,17,",",",",",",,PUNC,16,PUNC,_,_,,,",",",",","
+46023,18,пот,ПОТ,S m inan acc sg,,S m inan nom sg,19,предик,_,_,,,S,ПОТ,S m inan nom sg
+46024,19,утёр,УТЕРЕТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,3,сент-соч,_,_,,,V,УТЕРЕТЬ,V pf praet sg indic m -
+46025,20,со,СО,PR,,PR,19,1-компл,_,_,,,PR,СО,PR
+46026,21,лба,ЛОБ,S m inan gen sg,,S m inan gen sg,20,предл,_,_,,,S,ЛОБ,S m inan gen sg
+46027,22,.,.,SENT,,SENT,21,PUNC,_,_,,,SENT,.,SENT
+46028,,,,,,,,,,,,,,,
+46029,1,Это,ЭТО,SPRO n - nom sg,,S n - nom sg,2,предик,_,_,,,S,ЭТО,S n - nom sg
+46030,2,странно,СТРАННО,ADV -,,A - - sg brev n -,0,ROOT,_,_,,,A,СТРАННЫЙ,A - - sg brev n -
+46031,3,.,.,SENT,,SENT,2,PUNC,_,_,,,SENT,.,SENT
+46032,,,,,,,,,,,,,,,
+46033,1,А,А,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,А,CONJ
+46034,2,ещё,ЕЩЕ,PART,,ADV -,3,огранич,_,_,,,ADV,ЕЩЕ,ADV -
+46035,3,в,В,PR,,PR,8,обст,_,_,,,PR,В,PR
+46036,4,его,ЕГО,APRO - loc sg plen f 3p,,A - nonflex nonflex plen - -,5,квазиагент,_,_,,,A,ЕГО,A - nonflex nonflex plen - -
+46037,5,книге,КНИГА,S f inan loc sg,,S f inan loc sg,3,предл,_,_,,,S,КНИГА,S f inan loc sg
+46038,6,на,НА,PR,,PR,8,1-компл,_,_,,,PR,НА,PR
+46039,7,эльфийском,ЭЛЬФИЙСКИЙ,A - loc sg plen m 3p,,A - loc sg plen m -,6,предл,_,_,,,A,ЭЛЬФИЙСКИЙ,A - loc sg plen m -
+46040,8,были,БЫТЬ,V ipf praet pl indic m 3p,,V ipf praet pl indic - -,1,соч-союзн,_,_,,,V,БЫТЬ,V ipf praet pl indic - -
+46041,9,жуки,ЖУК,S m anim nom pl,,S m anim nom pl,8,предик,_,_,,,S,ЖУК,S m anim nom pl
+46042,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46043,11,которые,КОТОРЫЙ,APRO - nom pl plen m 3p,,A - nom pl plen - -,12,предик,_,_,,,A,КОТОРЫЙ,A - nom pl plen - -
+46044,12,танцуют,ТАНЦЕВАТЬ,V ipf praes pl indic m 3p,,V ipf praes pl indic - 3p,8,сент-соч,_,_,,,V,ТАНЦЕВАТЬ,V ipf praes pl indic - 3p
+46045,13,балет,БАЛЕТ,S m inan acc sg,,S m inan acc sg,12,1-компл,_,_,,,S,БАЛЕТ,S m inan acc sg
+46046,14,.,.,SENT,,SENT,13,PUNC,_,_,,,SENT,.,SENT
+46047,,,,,,,,,,,,,,,
+46048,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46049,2,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,6,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46050,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+46051,4,походу,ПОХОДУ,PARENTH,,S m inan dat sg,2,оп-опред,_,_,,,S,ПОХОД,S m inan dat sg
+46052,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+46053,6,вошёл,ВОЙТИ,V pf praet sg indic m 3p,,V pf praet sg indic m -,1,соч-союзн,_,_,,,V,ВОЙТИ,V pf praet sg indic m -
+46054,7,в,В,PR,,PR,6,2-компл,_,_,,,PR,В,PR
+46055,8,ярость,ЯРОСТЬ,S f inan acc sg,,S f inan acc sg,7,предл,_,_,,,S,ЯРОСТЬ,S f inan acc sg
+46056,9,и,И,CONJ,,CONJ,6,сочин,_,_,,,CONJ,И,CONJ
+46057,10,начал,НАЧИНАТЬ,V pf praet sg indic m 3p,,S n inan gen pl,9,соч-союзн,_,_,,,S,НАЧАЛО,S n inan gen pl
+46058,11,резать,РЕЗАТЬ,V ipf - - inf - -,,V ipf - - inf - -,6,1-компл,_,_,,,V,РЕЗАТЬ,V ipf - - inf - -
+46059,12,ткань,ТКАНЬ,S f inan acc sg,,S f inan acc sg,11,1-компл,_,_,,,S,ТКАНЬ,S f inan acc sg
+46060,13,;,;,SENT,,SENT,12,PUNC,_,_,,,SENT,;,SENT
+46061,,,,,,,,,,,,,,,
+46062,1,вместо,ВМЕСТО,PR,,PR,4,обст,_,_,,,PR,ВМЕСТО,PR
+46063,2,себя,СЕБЯ,SPRO m anim gen acc,,SPRO - - - acc,1,предл,_,_,,,SPRO,СЕБЯ,SPRO - - - acc
+46064,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+46065,4,походу,ПОХОДУ,PART,,S m inan dat sg,0,ROOT,_,_,,,S,ПОХОД,S m inan dat sg
+46066,5,.,.,SENT,,SENT,4,PUNC,_,_,,,SENT,.,SENT
+46067,,,,,,,,,,,,,,,
+46068,1,Не,НЕ,PART,,PART,2,огранич,_,_,,,PART,НЕ,PART
+46069,2,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,0,ROOT,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46070,3,.,.,SENT,,SENT,2,PUNC,_,_,,,SENT,.,SENT
+46071,,,,,,,,,,,,,,,
+46072,1,Студентка,СТУДЕНТКА,NONLEX,,S f anim nom sg,0,ROOT,_,_,,,S,СТУДЕНТКА,S f anim nom sg
+46073,2,@,@,@,,PUNC,1,аппоз,_,_,,,@,@,@
+46074,3,Что,ЧТО,SPRO sg 3p n nom,,CONJ,1,сочин,_,_,,,CONJ,ЧТО,CONJ
+46075,4,происходит,ПРОИСХОДИТЬ,V ipf praes sg indic n 3p,,V ipf praes sg indic - 3p,3,подч-союзн,_,_,,,V,ПРОИСХОДИТЬ,V ipf praes sg indic - 3p
+46076,5,в,В,PR,,PR,4,обст,_,_,,,PR,В,PR
+46077,6,данный,ДАННЫЙ,A - acc sg plen m inan,,A - acc sg plen m inan,7,опред,_,_,,,A,ДАННЫЙ,A - acc sg plen m inan
+46078,7,момент,МОМЕНТ,S m inan acc sg,,S m inan acc sg,5,предл,_,_,,,S,МОМЕНТ,S m inan acc sg
+46079,8,?,?,SENT,,SENT,7,PUNC,_,_,,,SENT,?,SENT
+46080,,,,,,,,,,,,,,,
+46081,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,37,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46082,2,@,@,@,,PUNC,6,1-компл,_,_,,,@,@,@
+46083,3,Ну,НУ,PART,,PART,2,огранич,_,_,,,PART,НУ,PART
+46084,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46085,5,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,6,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46086,6,вырезает,ВЫРЕЗАТЬ,V ipf praes sg indic - 3p,,V ipf praes sg indic - 3p,1,примыкат,_,_,,,V,ВЫРЕЗАТЬ,V ipf praes sg indic - 3p
+46087,7,какой-то,КАКОЙ-ТО,A - acc sg plen m 3p,,A - nom sg plen m -,8,опред,_,_,,,A,КАКОЙ-ТО,A - nom sg plen m -
+46088,8,костюм,КОСТЮМ,S m inan acc sg,,S m inan nom sg,6,предик,_,_,,,S,КОСТЮМ,S m inan nom sg
+46089,9,",",",",",",,PUNC,8,PUNC,_,_,,,",",",",","
+46090,10,там,ТАМ,PART,,ADV -,12,вводн,_,_,,,ADV,ТАМ,ADV -
+46091,11,",",",",",",,PUNC,10,PUNC,_,_,,,",",",",","
+46092,12,<,<,<,,PUNC,8,опред,_,_,,,<,<,<
+46093,13,distinct,DISTINCT,NONLEX,,NONLEX,12,1-компл,_,_,,,NONLEX,DISTINCT,NONLEX
+46094,14,form,FORM,NONLEX,,NONLEX,13,аппоз,_,_,,,NONLEX,FORM,NONLEX
+46095,15,#ERROR!,#ERROR!,#ERROR!,,PUNC,12,2-компл,_,_,,,#ERROR!,#ERROR!,#ERROR!
+46096,16,	,_,PUNC,,17,PUNC,_,_,,,,_,_,PUNC
+46097,17,сес,СЕСТРА,distort,,S m anim nom sg,15,аппоз,_,_,,,S,СЕС,S m anim nom sg
+46098,18,	,_,PUNC,,17,PUNC,_,_,,,,_,_,PUNC
+46099,19,>,>,>,,PUNC,12,1-компл,_,_,,,>,>,>
+46100,20,сестре,СЕСТРА,S f anim dat sg,,S f anim dat sg,19,аппоз,_,_,,,S,СЕСТРА,S f anim dat sg
+46101,21,<,<,<,,PUNC,22,опред,_,_,,,<,<,<
+46102,22,/,/,/,,PUNC,24,атриб,_,_,,,/,/,/
+46103,23,distinct,DISTINCT,NONLEX,,NONLEX,22,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+46104,24,>...,>...,>,,PUNC,37,1-компл,_,_,,,>,>...,>
+46105,25,хотя,ХОТЯ,CONJ,,CONJ,24,обст,_,_,,,CONJ,ХОТЯ,CONJ
+46106,26,сам,САМ,APRO - nom sg plen m 3p,,A - nom sg plen m -,31,суб-копр,_,_,,,A,САМ,A - nom sg plen m -
+46107,27,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,31,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46108,28,просто,ПРОСТО,PART,,PART,31,огранич,_,_,,,PART,ПРОСТО,PART
+46109,29,",",",",",",,PUNC,28,PUNC,_,_,,,",",",",","
+46110,30,не,НЕ,PART,,PART,31,огранич,_,_,,,PART,НЕ,PART
+46111,31,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,25,подч-союзн,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46112,32,",",",",",",,PUNC,31,PUNC,_,_,,,",",",",","
+46113,33,страшный,СТРАШНЫЙ,A - nom sg plen m 3p,,A - nom sg plen m -,37,предик,_,_,,,A,СТРАШНЫЙ,A - nom sg plen m -
+46114,34,",",",",",",,PUNC,33,PUNC,_,_,,,",",",",","
+46115,35,просто,ПРОСТО,PART,,PART,37,огранич,_,_,,,PART,ПРОСТО,PART
+46116,36,не,НЕ,PART,,PART,37,огранич,_,_,,,PART,НЕ,PART
+46117,37,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,0,ROOT,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46118,38,",",",",",",,PUNC,37,PUNC,_,_,,,",",",",","
+46119,39,как,КАК,CONJ,,CONJ,37,1-компл,_,_,,,CONJ,КАК,CONJ
+46120,40,его,ОН,SPRO sg 3p m acc,,SPRO sg 3p m acc,41,1-компл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46121,41,назвать,НАЗВАТЬ,V pf - - inf - -,,V pf - - inf - -,39,сравн-союзн,_,_,,,V,НАЗВАТЬ,V pf - - inf - -
+46122,42,.,.,SENT,,SENT,41,PUNC,_,_,,,SENT,.,SENT
+46123,,,,,,,,,,,,,,,
+46124,1,Но,НО,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,НО,CONJ
+46125,2,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,3,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46126,3,создаёт,СОЗДАВАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,1,соч-союзн,_,_,,,V,СОЗДАВАТЬ,V ipf praes sg indic - 3p
+46127,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46128,5,походу,ПОХОДУ,PART,,S m inan dat sg,3,1-компл,_,_,,,S,ПОХОД,S m inan dat sg
+46129,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46130,7,с...,С...,nonflex,,PR,3,2-компл,_,_,,,PR,С...,PR
+46131,8,куклу,КУКЛА,S f inan acc sg,,S f inan acc sg,7,предл,_,_,,,S,КУКЛА,S f inan acc sg
+46132,9,-,-,-,,PUNC,8,PUNC,_,_,,,-,-,-
+46133,10,версию,ВЕРСИЯ,S f inan acc sg,,S f inan acc sg,3,1-компл,_,_,,,S,ВЕРСИЯ,S f inan acc sg
+46134,11,самого,САМ,APRO - gen sg plen m 3p,,A - gen sg plen m -,12,опред,_,_,,,A,САМ,A - gen sg plen m -
+46135,12,себя,СЕБЯ,SPRO m anim gen acc,,SPRO - - - acc,10,1-компл,_,_,,,SPRO,СЕБЯ,SPRO - - - acc
+46136,13,как бы,как бы,PART,,-,3,обст,_,_,,,ADV,как бы,ADV -
+46137,14,.,.,SENT,,SENT,13,PUNC,_,_,,,SENT,.,SENT
+46138,,,,,,,,,,,,,,,
+46139,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,3,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46140,2,как бы,как бы,PART,,-,3,огранич,_,_,,,ADV,как бы,ADV -
+46141,3,жук,ЖУК,S m anim nom sg,,S m anim nom sg,0,ROOT,_,_,,,S,ЖУК,S m anim nom sg
+46142,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46143,5,да,ДА,PART,,PART,6,огранич,_,_,,,PART,ДА,PART
+46144,6,?,?,?,,PUNC,3,сент-соч,_,_,,,?,?,?
+46145,7,но,НО,CONJ,,CONJ,6,сент-соч,_,_,,,CONJ,НО,CONJ
+46146,8,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,10,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46147,9,как бы,как бы,PART,,-,10,обст,_,_,,,ADV,как бы,ADV -
+46148,10,сделан,СДЕЛАТЬ,PARTCP pf praet - sg brev m pass 3p,,PARTCP pf praet - sg brev m pass -,7,соч-союзн,_,_,,,PARTCP,СДЕЛАТЬ,PARTCP pf praet - sg brev m pass -
+46149,11,из,ИЗ,PR,,PR,10,2-компл,_,_,,,PR,ИЗ,PR
+46150,12,ткани,ТКАНЬ,S f inan gen sg,,S f inan gen sg,11,предл,_,_,,,S,ТКАНЬ,S f inan gen sg
+46151,13,;,;,SENT,,SENT,12,PUNC,_,_,,,SENT,;,SENT
+46152,,,,,,,,,,,,,,,
+46153,1,и,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46154,2,на,НА,PR,,PR,6,обст,_,_,,,PR,НА,PR
+46155,3,нём,ОН,SPRO sg 3p m loc,,SPRO sg 3p m loc,2,предл,_,_,,,SPRO,ОН,SPRO sg 3p m loc
+46156,4,ещё,ЕЩЕ,PART,,ADV -,5,огранич,_,_,,,ADV,ЕЩЕ,ADV -
+46157,5,прикольная,ПРИКОЛЬНЫЙ,A - nom sg plen f 3p,,A - nom sg plen f -,6,опред,_,_,,,A,ПРИКОЛЬНЫЙ,A - nom sg plen f -
+46158,6,маска,МАСКА,S f inan nom sg,,S f inan nom sg,1,соч-союзн,_,_,,,S,МАСКА,S f inan nom sg
+46159,7,;,;,SENT,,SENT,6,PUNC,_,_,,,SENT,;,SENT
+46160,,,,,,,,,,,,,,,
+46161,1,и,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46162,2,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,3,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46163,3,делает,ДЕЛАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,1,соч-союзн,_,_,,,V,ДЕЛАТЬ,V ipf praes sg indic - 3p
+46164,4,такого,ТАКОЙ,APRO - acc sg plen m anim,,A - acc sg plen m anim,6,опред,_,_,,,A,ТАКОЙ,A - acc sg plen m anim
+46165,5,же,ЖЕ,PART,,PART,4,огранич,_,_,,,PART,ЖЕ,PART
+46166,6,жука,ЖУК,S m anim acc sg,,S m anim acc sg,3,1-компл,_,_,,,S,ЖУК,S m anim acc sg
+46167,7,как,КАК,CONJ,,CONJ,3,сравнит,_,_,,,CONJ,КАК,CONJ
+46168,8,и,И,CONJ,,CONJ,7,сравн-союзн,_,_,,,CONJ,И,CONJ
+46169,9,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,0,ROOT,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46170,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46171,11,только,ТОЛЬКО,PART,,PART,12,огранич,_,_,,,PART,ТОЛЬКО,PART
+46172,12,розового,РОЗОВЫЙ,A - acc sg plen m 3p,,A - gen sg plen n -,9,оп-опред,_,_,,,A,РОЗОВЫЙ,A - gen sg plen n -
+46173,13,.,.,SENT,,SENT,12,PUNC,_,_,,,SENT,.,SENT
+46174,,,,,,,,,,,,,,,
+46175,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,3,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46176,2,@,@,@,,PUNC,3,опред,_,_,,,@,@,@
+46177,3,Время,ВРЕМЯ,S n inan nom sg,,S n inan nom sg,10,предик,_,_,,,S,ВРЕМЯ,S n inan nom sg
+46178,4,у,У,PR,,PR,10,обст,_,_,,,PR,У,PR
+46179,5,него,ОН,SPRO sg 3p m gen,,SPRO sg 3p m acc,4,предл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46180,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46181,7,кстати,КСТАТИ,PARENTH,,ADV -,10,вводн,_,_,,,ADV,КСТАТИ,ADV -
+46182,8,",",",",",",,PUNC,7,PUNC,_,_,,,",",",",","
+46183,9,почти,ПОЧТИ,ADV -,,ADV -,10,огранич,_,_,,,ADV,ПОЧТИ,ADV -
+46184,10,вышло,ВЫЙТИ,V pf praet sg indic n 3p,,V pf praet sg indic n -,0,ROOT,_,_,,,V,ВЫЙТИ,V pf praet sg indic n -
+46185,11,на,НА,PR,,PR,10,обст,_,_,,,PR,НА,PR
+46186,12,часах,ЧАСЫ,S - inan loc pl,,S - inan loc pl,11,предл,_,_,,,S,ЧАСЫ,S - inan loc pl
+46187,13,",",",",",",,PUNC,12,PUNC,_,_,,,",",",",","
+46188,14,которые,КОТОРЫЙ,APRO - acc pl plen - 3p,,A - nom pl plen - -,19,1-компл,_,_,,,A,КОТОРЫЙ,A - nom pl plen - -
+46189,15,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,19,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46190,16,в,В,PR,,PR,19,обст,_,_,,,PR,В,PR
+46191,17,самом,САМЫЙ,APRO - loc sg plen n 3p,,A - loc sg plen n -,18,опред,_,_,,,A,САМЫЙ,A - loc sg plen n -
+46192,18,начале,НАЧАЛО,S n inan loc sg,,S n inan loc sg,16,предл,_,_,,,S,НАЧАЛО,S n inan loc sg
+46193,19,перевернул,ПЕРЕВЕРНУТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,10,1-компл,_,_,,,V,ПЕРЕВЕРНУТЬ,V pf praet sg indic m -
+46194,20,.,.,SENT,,SENT,19,PUNC,_,_,,,SENT,.,SENT
+46195,,,,,,,,,,,,,,,
+46196,1,Иии,И,PART,,S m inan loc sg,0,ROOT,_,_,,,S,ИИИ,S m inan loc sg
+46197,2,...,...,SENT,,SENT,1,PUNC,_,_,,,SENT,...,SENT
+46198,,,,,,,,,,,,,,,
+46199,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,2,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46200,2,думает,ДУМАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ДУМАТЬ,V ipf praes sg indic - 3p
+46201,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+46202,4,что,ЧТО,SPRO sg 3p n acc,,CONJ,2,1-компл,_,_,,,CONJ,ЧТО,CONJ
+46203,5,делать,ДЕЛАТЬ,V ipf - - inf - -,,V ipf - - inf - -,0,ROOT,_,_,,,V,ДЕЛАТЬ,V ipf - - inf - -
+46204,6,с,С,PR,,PR,5,1-компл,_,_,,,PR,С,PR
+46205,7,его,ЕГО,APRO - ins sg plen n 3p,,A - nonflex nonflex plen - -,8,квазиагент,_,_,,,A,ЕГО,A - nonflex nonflex plen - -
+46206,8,телом,ТЕЛО,S n inan ins sg,,S n inan ins sg,6,предл,_,_,,,S,ТЕЛО,S n inan ins sg
+46207,9,",",",",",",,PUNC,8,PUNC,_,_,,,",",",",","
+46208,10,потому что,потому что,CONJ,,ZERO,5,обст,_,_,,,CONJ,потому что,CONJ
+46209,11,оно,ОНО,SPRO sg 3p n nom,,SPRO sg 3p n nom,13,предик,_,_,,,SPRO,ОНО,SPRO sg 3p n nom
+46210,12,не,НЕ,PART,,PART,13,огранич,_,_,,,PART,НЕ,PART
+46211,13,оживает,ОЖИВАТЬ,V ipf praes sg indic n 3p,,V ipf praes sg indic - 3p,10,подч-союзн,_,_,,,V,ОЖИВАТЬ,V ipf praes sg indic - 3p
+46212,14,.,.,SENT,,SENT,13,PUNC,_,_,,,SENT,.,SENT
+46213,,,,,,,,,,,,,,,
+46214,1,А,А,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,А,CONJ
+46215,2,должно,ДОЛЖНО,PRAEDIC,,ADV -,4,вводн,_,_,,,ADV,ДОЛЖНО,ADV -
+46216,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+46217,4,по,ПО,PR,,PR,1,соч-союзн,_,_,,,PR,ПО,PR
+46218,5,идее,ИДЕЯ,S f inan dat sg,,S f inan dat sg,4,предл,_,_,,,S,ИДЕЯ,S f inan dat sg
+46219,6,.,.,SENT,,SENT,5,PUNC,_,_,,,SENT,.,SENT
+46220,,,,,,,,,,,,,,,
+46221,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,2,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46222,2,пытается,ПЫТАТЬСЯ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ПЫТАТЬСЯ,V ipf praes sg indic - 3p
+46223,3,его,ОН,SPRO sg 3p m acc,,SPRO sg 3p m acc,2,1-компл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46224,4,как-то,КАК-ТО,ADVPRO,,ADV -,6,обст,_,_,,,ADV,КАК-ТО,ADV -
+46225,5,там,ТАМ,ADVPRO,,ADV -,6,обст,_,_,,,ADV,ТАМ,ADV -
+46226,6,расшевелить,РАСШЕВЕЛИТЬ,V pf - - inf - -,,V pf - - inf - -,2,разъяснит,_,_,,,V,РАСШЕВЕЛИТЬ,V pf - - inf - -
+46227,7,что,ЧТО,PART,,CONJ,6,1-компл,_,_,,,CONJ,ЧТО,CONJ
+46228,8,ли,ЛИ,PART,,PART,7,огранич,_,_,,,PART,ЛИ,PART
+46229,9,.,.,SENT,,SENT,8,PUNC,_,_,,,SENT,.,SENT
+46230,,,,,,,,,,,,,,,
+46231,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,6,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46232,2,его,ОН,SPRO sg 3p m acc,,SPRO sg 3p m acc,6,1-компл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46233,3,на,НА,PR,,PR,6,обст,_,_,,,PR,НА,PR
+46234,4,какую-то,КАКОЙ-ТО,APRO - acc sg plen f inan,,A - acc sg plen f inan,3,предл,_,_,,,A,КАКОЙ-ТО,A - acc sg plen f inan
+46235,5,коробку,КОРОБКА,S f inan acc sg,,S f inan acc sg,6,1-компл,_,_,,,S,КОРОБКА,S f inan acc sg
+46236,6,опустил,ОПУСТИТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ОПУСТИТЬ,V pf praet sg indic m -
+46237,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+46238,8,покрутил,ПОКРУТИТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,6,сочин,_,_,,,V,ПОКРУТИТЬ,V pf praet sg indic m -
+46239,9,какую-то,КАКОЙ-ТО,APRO - acc sg plen f inan,,A - acc sg plen f inan,10,опред,_,_,,,A,КАКОЙ-ТО,A - acc sg plen f inan
+46240,10,хрень,ХРЕНЬ,S f inan acc sg,,S f inan acc sg,8,1-компл,_,_,,,S,ХРЕНЬ,S f inan acc sg
+46241,11,-,-,-,,PUNC,10,PUNC,_,_,,,-,-,-
+46242,12,я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,14,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46243,13,не,НЕ,PART,,PART,14,огранич,_,_,,,PART,НЕ,PART
+46244,14,понял,ПОНЯТЬ,V pf praet sg indic m 1p,,V pf praet sg indic m -,8,сочин,_,_,,,V,ПОНЯТЬ,V pf praet sg indic m -
+46245,15,",",",",",",,PUNC,14,PUNC,_,_,,,",",",",","
+46246,16,что,ЧТО,CONJ,,CONJ,14,1-компл,_,_,,,CONJ,ЧТО,CONJ
+46247,17,это,ЭТО,S n inan nom sg,,S n - nom sg,16,подч-союзн,_,_,,,S,ЭТО,S n - nom sg
+46248,18,.,.,SENT,,SENT,17,PUNC,_,_,,,SENT,.,SENT
+46249,,,,,,,,,,,,,,,
+46250,1,Типа,ТИПА,PART,,S m inan gen sg,3,предик,_,_,,,S,ТИП,S m inan gen sg
+46251,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46252,3,читает,ЧИТАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ЧИТАТЬ,V ipf praes sg indic - 3p
+46253,4,сказки,СКАЗКА,S f inan acc pl,,S f inan acc pl,3,1-компл,_,_,,,S,СКАЗКА,S f inan acc pl
+46254,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+46255,6,там,ТАМ,PART,,ADV -,3,обст,_,_,,,ADV,ТАМ,ADV -
+46256,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+46257,8,ну,НУ,PART,,PART,9,огранич,_,_,,,PART,НУ,PART
+46258,9,в,В,PR,,PR,3,обст,_,_,,,PR,В,PR
+46259,10,общем,ОБЩИЙ,A - loc sg plen m -,,A - loc sg plen m -,9,предл,_,_,,,A,ОБЩИЙ,A - loc sg plen m -
+46260,11,",",",",",",,PUNC,10,PUNC,_,_,,,",",",",","
+46261,12,обращается,ОБРАЩАТЬСЯ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,3,сочин,_,_,,,V,ОБРАЩАТЬСЯ,V ipf praes sg indic - 3p
+46262,13,как бы,как бы,ADVPRO,,-,14,огранич,_,_,,,ADV,как бы,ADV -
+46263,14,как,КАК,CONJ,,ADV -,15,огранич,_,_,,,ADV,КАК,ADV -
+46264,15,с,С,PR,,PR,12,2-компл,_,_,,,PR,С,PR
+46265,16,<,<,<,,PUNC,15,предл,_,_,,,<,<,<
+46266,17,distinct,DISTINCT,NONLEX,,NONLEX,16,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+46267,18,form,FORM,NONLEX,,NONLEX,17,аппоз,_,_,,,NONLEX,FORM,NONLEX
+46268,19,#ERROR!,#ERROR!,#ERROR!,,PUNC,16,опред,_,_,,,#ERROR!,#ERROR!,#ERROR!
+46269,20,	,_,PUNC,,21,PUNC,_,_,,,,_,_,PUNC
+46270,21,сест,СЕСТРА,distort,,S m inan acc sg,19,1-компл,_,_,,,S,СЕСТ,S m inan acc sg
+46271,22,	,_,PUNC,,21,PUNC,_,_,,,,_,_,PUNC
+46272,23,>,>,>,,PUNC,24,опред,_,_,,,>,>,>
+46273,24,сестрой,СЕСТРА,S f anim ins sg,,S f anim ins sg,19,агент,_,_,,,S,СЕСТРА,S f anim ins sg
+46274,25,<,<,<,,PUNC,26,опред,_,_,,,<,<,<
+46275,26,/,/,/,,PUNC,19,1-компл,_,_,,,/,/,/
+46276,27,distinct,DISTINCT,NONLEX,,NONLEX,26,аппоз,_,_,,,NONLEX,DISTINCT,NONLEX
+46277,28,>,>,>,,PUNC,12,1-компл,_,_,,,>,>,>
+46278,29,...,...,SENT,,SENT,28,PUNC,_,_,,,SENT,...,SENT
+46279,,,,,,,,,,,,,,,
+46280,1,О,О,INTJ,,INTJ,0,ROOT,_,_,,,INTJ,О,INTJ
+46281,2,!,!,SENT,,SENT,1,PUNC,_,_,,,SENT,!,SENT
+46282,,,,,,,,,,,,,,,
+46283,1,Проверяет,ПРОВЕРЯТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ПРОВЕРЯТЬ,V ipf praes sg indic - 3p
+46284,2,зрение,ЗРЕНИЕ,S n inan acc sg,,S n inan nom sg,1,предик,_,_,,,S,ЗРЕНИЕ,S n inan nom sg
+46285,3,",",",",",",,PUNC,2,PUNC,_,_,,,",",",",","
+46286,4,хотя,ХОТЯ,CONJ,,CONJ,1,обст,_,_,,,CONJ,ХОТЯ,CONJ
+46287,5,это,ЭТО,S n inan nom sg,,S n - nom sg,6,предик,_,_,,,S,ЭТО,S n - nom sg
+46288,6,странно,СТРАННЫЙ,ADV -,,A - - sg brev n -,4,подч-союзн,_,_,,,A,СТРАННЫЙ,A - - sg brev n -
+46289,7,очень,ОЧЕНЬ,ADV -,,ADV -,6,обст,_,_,,,ADV,ОЧЕНЬ,ADV -
+46290,8,.,.,SENT,,SENT,7,PUNC,_,_,,,SENT,.,SENT
+46291,,,,,,,,,,,,,,,
+46292,1,Или,ИЛИ,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,ИЛИ,CONJ
+46293,2,не,НЕ,PART,,PART,3,огранич,_,_,,,PART,НЕ,PART
+46294,3,зрение,ЗРЕНИЕ,S n inan acc sg,,S n inan nom sg,1,соч-союзн,_,_,,,S,ЗРЕНИЕ,S n inan nom sg
+46295,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46296,5,не,НЕ,PART,,PART,6,огранич,_,_,,,PART,НЕ,PART
+46297,6,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,3,сочин,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46298,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+46299,8,читает,ЧИТАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,1,вводн,_,_,,,V,ЧИТАТЬ,V ipf praes sg indic - 3p
+46300,9,",",",",",",,PUNC,8,PUNC,_,_,,,",",",",","
+46301,10,короче,КОРОЧЕ,PARENTH,,ADV comp,12,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46302,11,",",",",",",,PUNC,10,PUNC,_,_,,,",",",",","
+46303,12,сказки,СКАЗКА,S f inan acc pl,,S f inan gen sg,8,предик,_,_,,,S,СКАЗКА,S f inan gen sg
+46304,13,.,.,SENT,,SENT,12,PUNC,_,_,,,SENT,.,SENT
+46305,,,,,,,,,,,,,,,
+46306,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46307,2,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,4,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46308,3,очень,ОЧЕНЬ,ADV -,,ADV -,4,огранич,_,_,,,ADV,ОЧЕНЬ,ADV -
+46309,4,растроился,РАСТРОИТЬСЯ,V pf praet sg indic m 3p,,V pf praet sg indic m -,1,соч-союзн,_,_,,,V,РАСТРОИТЬСЯ,V pf praet sg indic m -
+46310,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+46311,6,потому что,потому что,CONJ,,ZERO,4,обст,_,_,,,CONJ,потому что,CONJ
+46312,7,время,ВРЕМЯ,S n inan nom sg,,S n inan acc sg,9,предик,_,_,,,S,ВРЕМЯ,S n inan acc sg
+46313,8,почти,ПОЧТИ,ADV -,,ADV -,9,огранич,_,_,,,ADV,ПОЧТИ,ADV -
+46314,9,вышло,ВЫЙТИ,V pf praet sg indic n 3p,,V pf praet sg indic n -,6,подч-союзн,_,_,,,V,ВЫЙТИ,V pf praet sg indic n -
+46315,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46316,11,а,А,CONJ,,CONJ,9,сент-соч,_,_,,,CONJ,А,CONJ
+46317,12,она,ОНА,SPRO sg 3p f nom,,SPRO sg 3p f nom,15,предик,_,_,,,SPRO,ОНА,SPRO sg 3p f nom
+46318,13,ещё,ЕЩЕ,ADV -,,ADV -,15,обст,_,_,,,ADV,ЕЩЕ,ADV -
+46319,14,не,НЕ,PART,,PART,15,огранич,_,_,,,PART,НЕ,PART
+46320,15,ожила,ОЖИТЬ,V pf praet sg indic f 3p,,V pf praet sg indic f -,11,соч-союзн,_,_,,,V,ОЖИТЬ,V pf praet sg indic f -
+46321,16,.,.,SENT,,SENT,15,PUNC,_,_,,,SENT,.,SENT
+46322,,,,,,,,,,,,,,,
+46323,1,Походу,ПОХОДУ,PARENTH,,S m inan dat sg,6,2-компл,_,_,,,S,ПОХОД,S m inan dat sg
+46324,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46325,3,у,У,PR,,PR,6,обст,_,_,,,PR,У,PR
+46326,4,него,ОН,SPRO sg 3p m gen,,SPRO sg 3p m acc,3,предл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46327,5,время,ВРЕМЯ,S n inan nom sg,,S n inan acc sg,6,длительн,_,_,,,S,ВРЕМЯ,S n inan acc sg
+46328,6,ограничено,ОГРАНИЧИТЬ,PARTCP pf praet - sg brev n pass 3p,,PARTCP pf praet - sg brev n pass -,0,ROOT,_,_,,,PARTCP,ОГРАНИЧИТЬ,PARTCP pf praet - sg brev n pass -
+46329,7,.,.,SENT,,SENT,6,PUNC,_,_,,,SENT,.,SENT
+46330,,,,,,,,,,,,,,,
+46331,1,Но,НО,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,НО,CONJ
+46332,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46333,3,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,7,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46334,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46335,5,короче,КОРОЧЕ,PARENTH,,ADV comp,7,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46336,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46337,7,пытается,ПЫТАТЬСЯ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,1,соч-союзн,_,_,,,V,ПЫТАТЬСЯ,V ipf praes sg indic - 3p
+46338,8,с,С,PR,,PR,10,обст,_,_,,,PR,С,PR
+46339,9,ней,ОНА,SPRO sg 3p f ins,,SPRO sg 3p f loc,8,предл,_,_,,,SPRO,ОНА,SPRO sg 3p f loc
+46340,10,обращаться,ОБРАЩАТЬСЯ,V ipf - - inf - -,,V ipf - - inf - -,7,1-компл,_,_,,,V,ОБРАЩАТЬСЯ,V ipf - - inf - -
+46341,11,как,КАК,CONJ,,CONJ,10,сравнит,_,_,,,CONJ,КАК,CONJ
+46342,12,с,С,PR,,PR,11,сравн-союзн,_,_,,,PR,С,PR
+46343,13,живым,ЖИВОЙ,A - ins sg plen - 3p,,A - dat pl plen - -,12,предл,_,_,,,A,ЖИВОЙ,A - dat pl plen - -
+46344,14,",",",",",",,PUNC,13,PUNC,_,_,,,",",",",","
+46345,15,не,НЕ,PART,,PART,16,огранич,_,_,,,PART,НЕ,PART
+46346,16,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,V ipf praes sg indic - 1p,7,сочин,_,_,,,V,ЗНАТЬ,V ipf praes sg indic - 1p
+46347,17,...,...,SENT,,SENT,16,PUNC,_,_,,,SENT,...,SENT
+46348,,,,,,,,,,,,,,,
+46349,1,О,О,INTJ,,INTJ,0,ROOT,_,_,,,INTJ,О,INTJ
+46350,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46351,3,там,ТАМ,ADV -,,ADV -,0,ROOT,_,_,,,ADV,ТАМ,ADV -
+46352,4,на,НА,PR,,PR,0,ROOT,_,_,,,PR,НА,PR
+46353,5,эльфийском,ЭЛЬФИЙСКИЙ,A - loc sg plen m 3p,,A - loc sg plen m -,7,2-компл,_,_,,,A,ЭЛЬФИЙСКИЙ,A - loc sg plen m -
+46354,6,было,БЫТЬ,V ipf praet sg indic n 3p,,V ipf praet sg indic n -,4,предл,_,_,,,V,БЫТЬ,V ipf praet sg indic n -
+46355,7,написано,НАПИСАТЬ,PARTCP pf praet - sg brev n pass 3p,,PARTCP pf praet - sg brev n pass -,6,пасс-анал,_,_,,,PARTCP,НАПИСАТЬ,PARTCP pf praet - sg brev n pass -
+46356,8,	,_,PUNC,,9,PUNC,_,_,,,,_,_,PUNC
+46357,9,Шопен,ШОПЕН,S m anim nom sg,,S m anim nom sg,6,предик,_,_,,,S,ШОПЕН,S m anim nom sg
+46358,10,	,_,PUNC,,9,PUNC,_,_,,,,_,_,PUNC
+46359,11,;,;,SENT,,SENT,9,PUNC,_,_,,,SENT,;,SENT
+46360,,,,,,,,,,,,,,,
+46361,1,и,И,CONJ,,CONJ,2,соотнос,_,_,,,CONJ,И,CONJ
+46362,2,скрипка,СКРИПКА,S f inan nom sg,,S f inan nom sg,0,ROOT,_,_,,,S,СКРИПКА,S f inan nom sg
+46363,3,на,НА,PR,,PR,2,атриб,_,_,,,PR,НА,PR
+46364,4,двери,ДВЕРЬ,S f inan loc sg,,S f inan dat sg,3,предл,_,_,,,S,ДВЕРЬ,S f inan dat sg
+46365,5,;,;,SENT,,SENT,4,PUNC,_,_,,,SENT,;,SENT
+46366,,,,,,,,,,,,,,,
+46367,1,и,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46368,2,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,3,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46369,3,начал,НАЧАТЬ,V pf praet sg indic m 3p,,S n inan gen pl,1,соч-союзн,_,_,,,S,НАЧАЛО,S n inan gen pl
+46370,4,играть,ИГРАТЬ,V ipf - - inf - -,,V ipf - - inf - -,3,1-компл,_,_,,,V,ИГРАТЬ,V ipf - - inf - -
+46371,5,.,.,SENT,,SENT,4,PUNC,_,_,,,SENT,.,SENT
+46372,,,,,,,,,,,,,,,
+46373,1,Короче,КОРОЧЕ,PARENTH,,ADV comp,5,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46374,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46375,3,я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,5,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46376,4,так,ТАК,ADV -,,ADV -,5,обст,_,_,,,ADV,ТАК,ADV -
+46377,5,понял,ПОНЯТЬ,V pf praet sg indic m 1p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ПОНЯТЬ,V pf praet sg indic m -
+46378,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46379,7,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,8,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46380,8,хочет,ХОТЕТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,5,изъясн,_,_,,,V,ХОТЕТЬ,V ipf praes sg indic - 3p
+46381,9,её,ОНА,SPRO sg 3p f acc,,SPRO sg 3p f acc,10,1-компл,_,_,,,SPRO,ОНА,SPRO sg 3p f acc
+46382,10,оживить,ОЖИВИТЬ,V pf - - inf - -,,V pf - - inf - -,8,1-компл,_,_,,,V,ОЖИВИТЬ,V pf - - inf - -
+46383,11,",",",",",",,PUNC,10,PUNC,_,_,,,",",",",","
+46384,12,свою,СВОЙ,A - acc sg plen f 3p,,A - acc sg plen f -,13,опред,_,_,,,A,СВОЙ,A - acc sg plen f -
+46385,13,куклу,КУКЛА,S f inan acc sg,,S f inan acc sg,5,1-компл,_,_,,,S,КУКЛА,S f inan acc sg
+46386,14,.,.,SENT,,SENT,13,PUNC,_,_,,,SENT,.,SENT
+46387,,,,,,,,,,,,,,,
+46388,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,7,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46389,2,@,@,@,,PUNC,7,1-компл,_,_,,,@,@,@
+46390,3,Ну,НУ,PART,,PART,7,огранич,_,_,,,PART,НУ,PART
+46391,4,пока,ПОКА,ADV -,,ADV -,7,обст,_,_,,,ADV,ПОКА,ADV -
+46392,5,что,ЧТО,ADV -,Слитно,CONJ,4,вспом,_,_,,,CONJ,ЧТО,CONJ
+46393,6,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,7,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46394,7,играет,ИГРАТЬ,V ipf praes sg indic m 3p,,V ipf praes sg indic - 3p,0,ROOT,_,_,,,V,ИГРАТЬ,V ipf praes sg indic - 3p
+46395,8,",",",",",",,PUNC,7,PUNC,_,_,,,",",",",","
+46396,9,а,А,CONJ,,CONJ,7,сент-соч,_,_,,,CONJ,А,CONJ
+46397,10,она,ОНА,SPRO sg 3p f nom,,SPRO sg 3p f nom,11,предик,_,_,,,SPRO,ОНА,SPRO sg 3p f nom
+46398,11,лежит,ЛЕЖАТЬ,V ipf praes sg indic f 3p,,V ipf praes sg indic - 3p,9,соч-союзн,_,_,,,V,ЛЕЖАТЬ,V ipf praes sg indic - 3p
+46399,12,с,С,PR,,PR,11,1-компл,_,_,,,PR,С,PR
+46400,13,закрытыми,ЗАКРЫТЫЙ,A - ins pl plen f 3p,,A - ins pl plen - -,14,опред,_,_,,,A,ЗАКРЫТЫЙ,A - ins pl plen - -
+46401,14,глазами,ГЛАЗ,S m inan ins pl,,S m inan ins pl,12,предл,_,_,,,S,ГЛАЗ,S m inan ins pl
+46402,15,.,.,SENT,,SENT,14,PUNC,_,_,,,SENT,.,SENT
+46403,,,,,,,,,,,,,,,
+46404,1,Студентка,СТУДЕНТКА,NONLEX,,S f anim nom sg,5,предик,_,_,,,S,СТУДЕНТКА,S f anim nom sg
+46405,2,@,@,@,,PUNC,5,1-компл,_,_,,,@,@,@
+46406,3,Почему,ПОЧЕМУ,ADVPRO -,,ADV -,5,обст,_,_,,,ADV,ПОЧЕМУ,ADV -
+46407,4,ты,ТЫ,SPRO sg 2p m nom,,SPRO sg 2p - nom,5,предик,_,_,,,SPRO,ТЫ,SPRO sg 2p - nom
+46408,5,решил,РЕШИТЬ,V pf praet sg indic m 2p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,РЕШИТЬ,V pf praet sg indic m -
+46409,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46410,7,что,ЧТО,CONJ,,CONJ,5,1-компл,_,_,,,CONJ,ЧТО,CONJ
+46411,8,это,ЭТО,S n - nom sg,,S n - nom sg,9,опред,_,_,,,S,ЭТО,S n - nom sg
+46412,9,она,ОНА,SPRO sg 3p f nom,,SPRO sg 3p f nom,7,подч-союзн,_,_,,,SPRO,ОНА,SPRO sg 3p f nom
+46413,10,?,?,SENT,,SENT,9,PUNC,_,_,,,SENT,?,SENT
+46414,,,,,,,,,,,,,,,
+46415,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,4,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46416,2,@,@,@,,PUNC,4,опред,_,_,,,@,@,@
+46417,3,Ну,НУ,PART,,PART,4,вводн,_,_,,,PART,НУ,PART
+46418,4,потому что,потому что,CONJ,,ZERO,0,ROOT,_,_,,,CONJ,потому что,CONJ
+46419,5,...,...,SENT,,SENT,4,PUNC,_,_,,,SENT,...,SENT
+46420,,,,,,,,,,,,,,,
+46421,1,Ну,НУ,PART,,PART,0,ROOT,_,_,,,PART,НУ,PART
+46422,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46423,3,может,МОЖЕТ,PARENTH,,ADV -,0,ROOT,_,_,,,ADV,МОЖЕТ,ADV -
+46424,4,это,ЭТО,S n - acc sg,,S n - acc sg,0,ROOT,_,_,,,S,ЭТО,S n - acc sg
+46425,5,и,И,CONJ,,CONJ,8,соотнос,_,_,,,CONJ,И,CONJ
+46426,6,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,0,ROOT,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46427,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+46428,8,но,НО,CONJ,,CONJ,6,сочин,_,_,,,CONJ,НО,CONJ
+46429,9,это,ЭТО,S n - nom sg,,S n - nom sg,10,предик,_,_,,,S,ЭТО,S n - nom sg
+46430,10,было,БЫТЬ,V ipf praet sg indic n -,,V ipf praet sg indic n -,8,соч-союзн,_,_,,,V,БЫТЬ,V ipf praet sg indic n -
+46431,11,бы,БЫ,PART,,PART,10,аналит,_,_,,,PART,БЫ,PART
+46432,12,странно,СТРАННО,ADV -,,ADV -,10,присвяз,_,_,,,ADV,СТРАННО,ADV -
+46433,13,",",",",",",,PUNC,12,PUNC,_,_,,,",",",",","
+46434,14,если,ЕСЛИ,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,ЕСЛИ,CONJ
+46435,15,бы,БЫ,PART,,PART,17,аналит,_,_,,,PART,БЫ,PART
+46436,16,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,17,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46437,17,создавал,СОЗДАВАТЬ,V ipf praet sg indic m 3p,,V ipf praet sg indic m -,14,подч-союзн,_,_,,,V,СОЗДАВАТЬ,V ipf praet sg indic m -
+46438,18,мужскую,МУЖСКОЙ,A - acc sg plen f 3p,,A - acc sg plen f -,19,опред,_,_,,,A,МУЖСКОЙ,A - acc sg plen f -
+46439,19,куклу,КУКЛА,S f inan acc sg,,S f inan acc sg,17,1-компл,_,_,,,S,КУКЛА,S f inan acc sg
+46440,20,самого,САМ,A - gen sg plen m 3p,,A - gen sg plen m -,21,опред,_,_,,,A,САМ,A - gen sg plen m -
+46441,21,себя,СЕБЯ,SPRO sg 3p m gen,,SPRO - - - acc,19,1-компл,_,_,,,SPRO,СЕБЯ,SPRO - - - acc
+46442,22,розового,РОЗОВЫЙ,A - gen sg plen m 3p,,A - gen sg plen m -,23,опред,_,_,,,A,РОЗОВЫЙ,A - gen sg plen m -
+46443,23,цвета,ЦВЕТ,S m inan gen sg,,S m inan gen sg,19,атриб,_,_,,,S,ЦВЕТ,S m inan gen sg
+46444,24,.,.,SENT,,SENT,23,PUNC,_,_,,,SENT,.,SENT
+46445,,,,,,,,,,,,,,,
+46446,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,3,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46447,2,@,@,@,,PUNC,3,опред,_,_,,,@,@,@
+46448,3,О,О,INTJ,,S - - nonflex nonflex,0,ROOT,_,_,,,S,О,S - - nonflex nonflex
+46449,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46450,5,короче,КОРОЧЕ,PARENTH,,ADV comp,8,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46451,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46452,7,она,ОНА,SPRO sg 3p f nom,,SPRO sg 3p f nom,8,предик,_,_,,,SPRO,ОНА,SPRO sg 3p f nom
+46453,8,встала,ВСТАТЬ,V pf praet sg indic f 3p,,V pf praet sg indic f -,3,сочин,_,_,,,V,ВСТАТЬ,V pf praet sg indic f -
+46454,9,и,И,CONJ,,CONJ,8,сочин,_,_,,,CONJ,И,CONJ
+46455,10,открыла,ОТКРЫТЬ,V pf praet sg indic f 3p,,V pf praet sg indic f -,9,соч-союзн,_,_,,,V,ОТКРЫТЬ,V pf praet sg indic f -
+46456,11,глаза,ГЛАЗ,S m inan acc pl,,S m inan acc pl,10,1-компл,_,_,,,S,ГЛАЗ,S m inan acc pl
+46457,12,.,.,SENT,,SENT,11,PUNC,_,_,,,SENT,.,SENT
+46458,,,,,,,,,,,,,,,
+46459,1,Голубые,ГОЛУБОЙ,A - nom pl plen - 3p,,A - nom pl plen - -,0,ROOT,_,_,,,A,ГОЛУБОЙ,A - nom pl plen - -
+46460,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46461,3,а,А,CONJ,,CONJ,1,сент-соч,_,_,,,CONJ,А,CONJ
+46462,4,у,У,PR,,PR,6,1-компл,_,_,,,PR,У,PR
+46463,5,него,ОН,SPRO sg 3p m gen,,SPRO sg 3p m acc,4,предл,_,_,,,SPRO,ОН,SPRO sg 3p m acc
+46464,6,были,БЫТЬ,V ipf praet pl indic - 3p,,V ipf praet pl indic - -,3,соч-союзн,_,_,,,V,БЫТЬ,V ipf praet pl indic - -
+46465,7,карие,КАРИЙ,A - nom pl plen - 3p,,A - nom pl plen - -,6,предик,_,_,,,A,КАРИЙ,A - nom pl plen - -
+46466,8,.,.,SENT,,SENT,7,PUNC,_,_,,,SENT,.,SENT
+46467,,,,,,,,,,,,,,,
+46468,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,21,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46469,2,@,@,@,,PUNC,21,обст,_,_,,,@,@,@
+46470,3,Прикольно,ПРИКОЛЬНО,ADV -,,ADV -,2,обст,_,_,,,ADV,ПРИКОЛЬНО,ADV -
+46471,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46472,5,если,ЕСЛИ,CONJ,,CONJ,2,обст,_,_,,,CONJ,ЕСЛИ,CONJ
+46473,6,б,Б,PART,,PART,8,аналит,_,_,,,PART,Б,PART
+46474,7,я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,8,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46475,8,мог,МОЧЬ,V ipf praet sg indic m 1p,,V ipf praet sg indic m -,5,подч-союзн,_,_,,,V,МОЧЬ,V ipf praet sg indic m -
+46476,9,оживлять,ОЖИВЛЯТЬ,V ipf - - inf - -,,V ipf - - inf - -,8,1-компл,_,_,,,V,ОЖИВЛЯТЬ,V ipf - - inf - -
+46477,10,себе,СЕБЯ,SPRO sg 1p - dat,,SPRO - - - loc,9,1-компл,_,_,,,SPRO,СЕБЯ,SPRO - - - loc
+46478,11,подобных,ПОДОБНЫЙ,A - gen pl plen - 3p,,A - gen pl plen - -,12,опред,_,_,,,A,ПОДОБНЫЙ,A - gen pl plen - -
+46479,12,игрой,ИГРА,S f inan ins sg,,S f inan ins sg,9,2-компл,_,_,,,S,ИГРА,S f inan ins sg
+46480,13,на,НА,PR,,PR,12,атриб,_,_,,,PR,НА,PR
+46481,14,скрипке,СКРИПКА,S f inan loc sg,,S f inan loc sg,13,предл,_,_,,,S,СКРИПКА,S f inan loc sg
+46482,15,",",",",",",,PUNC,14,PUNC,_,_,,,",",",",","
+46483,16,я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,21,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46484,17,бы,БЫ,PART,,PART,21,аналит,_,_,,,PART,БЫ,PART
+46485,18,",",",",",",,PUNC,17,PUNC,_,_,,,",",",",","
+46486,19,наверно,НАВЕРНО,ADV -,,ADV -,21,вводн,_,_,,,ADV,НАВЕРНО,ADV -
+46487,20,",",",",",",,PUNC,19,PUNC,_,_,,,",",",",","
+46488,21,научился,НАУЧИТЬСЯ,V pf praet sg indic m 1p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,НАУЧИТЬСЯ,V pf praet sg indic m -
+46489,22,играть,ИГРАТЬ,V ipf - - inf - -,,V ipf - - inf - -,21,1-компл,_,_,,,V,ИГРАТЬ,V ipf - - inf - -
+46490,23,на,НА,PR,,PR,22,обст,_,_,,,PR,НА,PR
+46491,24,скрипке,СКРИПКА,S f inan loc sg,,S f inan loc sg,23,предл,_,_,,,S,СКРИПКА,S f inan loc sg
+46492,25,",",",",",",,PUNC,24,PUNC,_,_,,,",",",",","
+46493,26,а,А,CONJ,,CONJ,21,сочин,_,_,,,CONJ,А,CONJ
+46494,27,не,НЕ,PART,,PART,28,огранич,_,_,,,PART,НЕ,PART
+46495,28,на,НА,PR,,PR,26,соч-союзн,_,_,,,PR,НА,PR
+46496,29,флейте,ФЛЕЙТА,S f inan loc sg,,S f inan loc sg,28,предл,_,_,,,S,ФЛЕЙТА,S f inan loc sg
+46497,30,.,.,SENT,,SENT,29,PUNC,_,_,,,SENT,.,SENT
+46498,,,,,,,,,,,,,,,
+46499,1,Короче,КОРОЧЕ,PARENTH,,ADV comp,5,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46500,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46501,3,их,ИХ,APRO - nom pl plen - 3p,,A - nonflex nonflex plen - -,4,квазиагент,_,_,,,A,ИХ,A - nonflex nonflex plen - -
+46502,4,взгляды,ВЗГЛЯД,S m inan nom pl,,S m inan acc pl,5,1-компл,_,_,,,S,ВЗГЛЯД,S m inan acc pl
+46503,5,встретились,ВСТРЕТИТЬСЯ,V pf praet pl indic m 3p,,V pf praet pl indic - -,0,ROOT,_,_,,,V,ВСТРЕТИТЬСЯ,V pf praet pl indic - -
+46504,6,:,:,:,,PUNC,7,опред,_,_,,,:,:,:
+46505,7,лапки,ЛАПКА,S f inan nom pl,,S f inan nom pl,5,предик,_,_,,,S,ЛАПКА,S f inan nom pl
+46506,8,",",",",",",,PUNC,7,PUNC,_,_,,,",",",",","
+46507,9,моргания,МОРГАНИЕ,S n inan nom pl,,S n inan acc pl,7,сочин,_,_,,,S,МОРГАНИЕ,S n inan acc pl
+46508,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46509,11,ээ...,ЭЭ...,INTJ,,NONLEX,9,сочин,_,_,,,NONLEX,ЭЭ...,NONLEX
+46510,12,объятья,ОБЪЯТЬЕ,S n inan nom sg,,S n inan gen sg,11,сочин,_,_,,,S,ОБЪЯТЬЕ,S n inan gen sg
+46511,13,.,.,SENT,,SENT,12,PUNC,_,_,,,SENT,.,SENT
+46512,,,,,,,,,,,,,,,
+46513,1,Понятно,ПОНЯТНО,PRAEDIC,,ADV -,0,ROOT,_,_,,,ADV,ПОНЯТНО,ADV -
+46514,2,.,.,SENT,,SENT,1,PUNC,_,_,,,SENT,.,SENT
+46515,,,,,,,,,,,,,,,
+46516,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,6,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46517,2,@,@,@,,PUNC,6,1-компл,_,_,,,@,@,@
+46518,3,Ну,НУ,PART,,PART,2,огранич,_,_,,,PART,НУ,PART
+46519,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46520,5,они,ОНИ,SPRO pl - anim nom,,SPRO pl - - nom,6,предик,_,_,,,SPRO,ОНИ,SPRO pl - - nom
+46521,6,обнялись,ОБНЯТЬСЯ,V pf praet pl indic - 3p,,V pf praet pl indic - -,0,ROOT,_,_,,,V,ОБНЯТЬСЯ,V pf praet pl indic - -
+46522,7,;,;,SENT,,SENT,6,PUNC,_,_,,,SENT,;,SENT
+46523,,,,,,,,,,,,,,,
+46524,1,ээ...,ЭЭ...,INTJ,,NONLEX,6,предик,_,_,,,NONLEX,ЭЭ...,NONLEX
+46525,2,песочные,ПЕСОЧНЫЙ,A - nom pl plen 3p inan,,A - acc pl plen - inan,3,опред,_,_,,,A,ПЕСОЧНЫЙ,A - acc pl plen - inan
+46526,3,часы,ЧАСЫ,S m inan nom pl,,S m inan acc pl,6,1-компл,_,_,,,S,ЧАСЫ,S m inan acc pl
+46527,4,уже,УЖЕ,ADV -,,ADV -,5,огранич,_,_,,,ADV,УЖЕ,ADV -
+46528,5,почти,ПОЧТИ,ADV -,,ADV -,6,огранич,_,_,,,ADV,ПОЧТИ,ADV -
+46529,6,дотикали,ДОТИКАТЬ,V pf praet pl indic - 3p,,V pf praet pl indic - -,0,ROOT,_,_,,,V,ДОТИКАТЬ,V pf praet pl indic - -
+46530,7,-,-,-,,PUNC,6,PUNC,_,_,,,-,-,-
+46531,8,странно,СТРАННО,ADV -,,ADV -,14,вводн,_,_,,,ADV,СТРАННО,ADV -
+46532,9,",",",",",",,PUNC,8,PUNC,_,_,,,",",",",","
+46533,10,песочные,ПЕСОЧНЫЙ,A - nom pl plen 3p inan,,A - acc pl plen - inan,11,опред,_,_,,,A,ПЕСОЧНЫЙ,A - acc pl plen - inan
+46534,11,часы,ЧАСЫ,S m inan nom pl,,S m inan acc pl,14,1-компл,_,_,,,S,ЧАСЫ,S m inan acc pl
+46535,12,же,ЖЕ,PART,,PART,11,огранич,_,_,,,PART,ЖЕ,PART
+46536,13,не,НЕ,PART,,PART,14,огранич,_,_,,,PART,НЕ,PART
+46537,14,тикают,ТИКАТЬ,V ipf praes pl indic - 3p,,V ipf praes pl indic - 3p,6,сент-соч,_,_,,,V,ТИКАТЬ,V ipf praes pl indic - 3p
+46538,15,",",",",",",,PUNC,14,PUNC,_,_,,,",",",",","
+46539,16,ну,НУ,PART,,PART,17,огранич,_,_,,,PART,НУ,PART
+46540,17,ладно,ЛАДНО,PARENTH,,PART,14,разъяснит,_,_,,,PART,ЛАДНО,PART
+46541,18,.,.,SENT,,SENT,17,PUNC,_,_,,,SENT,.,SENT
+46542,,,,,,,,,,,,,,,
+46543,1,Он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,5,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46544,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46545,3,короче,КОРОЧЕ,PARENTH,,ADV comp,5,вводн,_,_,,,ADV,КОРОЧЕ,ADV comp
+46546,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46547,5,отдал,ОТДАТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ОТДАТЬ,V pf praet sg indic m -
+46548,6,ей,ОНА,SPRO sg 3p f dat,,SPRO sg 3p f dat,5,2-компл,_,_,,,SPRO,ОНА,SPRO sg 3p f dat
+46549,7,книгу,КНИГА,S f inan acc sg,,S f inan acc sg,5,1-компл,_,_,,,S,КНИГА,S f inan acc sg
+46550,8,и,И,CONJ,,CONJ,5,сочин,_,_,,,CONJ,И,CONJ
+46551,9,испарился,ИСПАРИТЬСЯ,V pf praet sg indic m 3p,,V pf praet sg indic m -,8,соч-союзн,_,_,,,V,ИСПАРИТЬСЯ,V pf praet sg indic m -
+46552,10,...,...,SENT,,SENT,9,PUNC,_,_,,,SENT,...,SENT
+46553,,,,,,,,,,,,,,,
+46554,1,Студентка,СТУДЕНТКА,S f anim nom sg,,S f anim nom sg,3,предик,_,_,,,S,СТУДЕНТКА,S f anim nom sg
+46555,2,@,@,@,,PUNC,3,1-компл,_,_,,,@,@,@
+46556,3,Испарился,ИСПАРИТЬСЯ,V pf praet sg indic m 3p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ИСПАРИТЬСЯ,V pf praet sg indic m -
+46557,4,?,?,SENT,,SENT,3,PUNC,_,_,,,SENT,?,SENT
+46558,,,,,,,,,,,,,,,
+46559,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,0,ROOT,_,_,,,NONLEX,SVIBLASH,NONLEX
+46560,2,@...,@...,@,,PUNC,3,опред,_,_,,,@,@...,@
+46561,3,книгу,КНИГА,S f inan acc sg,,S f inan acc sg,1,1-компл,_,_,,,S,КНИГА,S f inan acc sg
+46562,4,с,С,PR,,PR,1,атриб,_,_,,,PR,С,PR
+46563,5,нотами,НОТА,S f inan ins pl,,S f inan ins pl,4,предл,_,_,,,S,НОТА,S f inan ins pl
+46564,6,.,.,SENT,,SENT,5,PUNC,_,_,,,SENT,.,SENT
+46565,,,,,,,,,,,,,,,
+46566,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46567,2,всё,ВСЕ,SPRO sg 3p n nom,,S n - nom sg,3,предик,_,_,,,S,ВСЕ,S n - nom sg
+46568,3,встало,ВСТАТЬ,V pf praet sg indic n 3p,,V pf praet sg indic n -,1,соч-союзн,_,_,,,V,ВСТАТЬ,V pf praet sg indic n -
+46569,4,на,НА,PR,,PR,3,1-компл,_,_,,,PR,НА,PR
+46570,5,свои,СВОЙ,A - acc pl plen 3p inan,,A - acc pl plen - inan,6,опред,_,_,,,A,СВОЙ,A - acc pl plen - inan
+46571,6,места,МЕСТО,S n inan acc pl,,S n inan acc pl,4,предл,_,_,,,S,МЕСТО,S n inan acc pl
+46572,7,.,.,SENT,,SENT,6,PUNC,_,_,,,SENT,.,SENT
+46573,,,,,,,,,,,,,,,
+46574,1,То есть,То есть,PARENTH,,-,3,вводн,_,_,,,ADV,То есть,ADV -
+46575,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46576,3,то,ТО,CONJ,,NONLEX,0,ROOT,_,_,,,NONLEX,ТО,NONLEX
+46577,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46578,5,что,ЧТО,CONJ,,CONJ,3,эксплет,_,_,,,CONJ,ЧТО,CONJ
+46579,6,он,ОН,SPRO sg 3p m nom,,SPRO sg 3p m nom,7,предик,_,_,,,SPRO,ОН,SPRO sg 3p m nom
+46580,7,раскладывал,РАСКЛАДЫВАТЬ,V ipf praet sg indic m 3p,,V ipf praet sg indic m -,5,подч-союзн,_,_,,,V,РАСКЛАДЫВАТЬ,V ipf praet sg indic m -
+46581,8,до,ДО,PR,,PR,7,2-компл,_,_,,,PR,ДО,PR
+46582,9,этого,ЭТО,S n inan gen sg,,S n - gen sg,8,предл,_,_,,,S,ЭТО,S n - gen sg
+46583,10,-,-,-,,PUNC,9,PUNC,_,_,,,-,-,-
+46584,11,ингредиенты,ИНГРЕДИЕНТ,S m inan acc pl,,S m inan acc pl,7,1-компл,_,_,,,S,ИНГРЕДИЕНТ,S m inan acc pl
+46585,12,",",",",",",,PUNC,11,PUNC,_,_,,,",",",",","
+46586,13,там,ТАМ,PART,,ADV -,7,2-компл,_,_,,,ADV,ТАМ,ADV -
+46587,14,",",",",",",,PUNC,13,PUNC,_,_,,,",",",",","
+46588,15,всякую,ВСЯКИЙ,A - acc sg plen f 3p,,A - acc sg plen f -,16,опред,_,_,,,A,ВСЯКИЙ,A - acc sg plen f -
+46589,16,фигню,ФИГНЯ,S f inan acc sg,,S f inan acc sg,19,1-компл,_,_,,,S,ФИГНЯ,S f inan acc sg
+46590,17,-,-,-,,PUNC,16,PUNC,_,_,,,-,-,-
+46591,18,всё,ВСЕ,SPRO sg 3p n nom,,ADV -,19,обст,_,_,,,ADV,ВСЕ,ADV -
+46592,19,вернулось,ВЕРНУТЬСЯ,V pf praet sg indic n 3p,,V pf praet sg indic n -,13,релят,_,_,,,V,ВЕРНУТЬСЯ,V pf praet sg indic n -
+46593,20,на,НА,PR,,PR,19,2-компл,_,_,,,PR,НА,PR
+46594,21,свои,СВОЙ,A - acc pl plen 3p inan,,A - acc pl plen - inan,22,опред,_,_,,,A,СВОЙ,A - acc pl plen - inan
+46595,22,места,МЕСТО,S n inan acc pl,,S n inan acc pl,20,предл,_,_,,,S,МЕСТО,S n inan acc pl
+46596,23,.,.,SENT,,SENT,22,PUNC,_,_,,,SENT,.,SENT
+46597,,,,,,,,,,,,,,,
+46598,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46599,2,песочные,ПЕСОЧНЫЙ,A - nom pl plen - 3p,,A - nom pl plen - -,3,опред,_,_,,,A,ПЕСОЧНЫЙ,A - nom pl plen - -
+46600,3,часы,ЧАСЫ,S - inan nom pl,,S - inan nom pl,5,предик,_,_,,,S,ЧАСЫ,S - inan nom pl
+46601,4,опять,ОПЯТЬ,ADV -,,ADV -,5,обст,_,_,,,ADV,ОПЯТЬ,ADV -
+46602,5,перевернулись,ПЕРЕВЕРНУТЬСЯ,V pf praet pl indic - 3p,,V pf praet pl indic - -,1,соч-союзн,_,_,,,V,ПЕРЕВЕРНУТЬСЯ,V pf praet pl indic - -
+46603,6,.,.,SENT,,SENT,5,PUNC,_,_,,,SENT,.,SENT
+46604,,,,,,,,,,,,,,,
+46605,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46606,2,всё,ВСЕ,SPRO sg 3p n nom,,S n - nom sg,3,предик,_,_,,,S,ВСЕ,S n - nom sg
+46607,3,началось,НАЧАТЬСЯ,V pf praet sg indic n 3p,,V pf praet sg indic n -,1,соч-союзн,_,_,,,V,НАЧАТЬСЯ,V pf praet sg indic n -
+46608,4,с,С,PR,,PR,3,1-компл,_,_,,,PR,С,PR
+46609,5,начала,НАЧАЛО,S n inan gen sg,,S n inan gen sg,4,предл,_,_,,,S,НАЧАЛО,S n inan gen sg
+46610,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46611,7,только,ТОЛЬКО,PART,,PART,9,огранич,_,_,,,PART,ТОЛЬКО,PART
+46612,8,она,ОНА,SPRO sg 3p f nom,,SPRO sg 3p f nom,9,предик,_,_,,,SPRO,ОНА,SPRO sg 3p f nom
+46613,9,розовая,РОЗОВЫЙ,A - nom sg plen f 3p,,A - nom sg plen f -,3,сочин,_,_,,,A,РОЗОВЫЙ,A - nom sg plen f -
+46614,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46615,11,а,А,CONJ,,CONJ,9,сочин,_,_,,,CONJ,А,CONJ
+46616,12,в,В,PR,,PR,14,присвяз,_,_,,,PR,В,PR
+46617,13,начале,НАЧАЛО,S n inan loc sg,,S n inan loc sg,12,предл,_,_,,,S,НАЧАЛО,S n inan loc sg
+46618,14,был,БЫТЬ,V ipf praet sg indic m 3p,,V ipf praet sg indic m -,11,соч-союзн,_,_,,,V,БЫТЬ,V ipf praet sg indic m -
+46619,15,коричневый,КОРИЧНЕВЫЙ,A - nom sg plen m 3p,,A - nom sg plen m -,14,предик,_,_,,,A,КОРИЧНЕВЫЙ,A - nom sg plen m -
+46620,16,.,.,SENT,,SENT,15,PUNC,_,_,,,SENT,.,SENT
+46621,,,,,,,,,,,,,,,
+46622,1,Студентка,СТУДЕНТКА,NONLEX,,S f anim nom sg,4,предик,_,_,,,S,СТУДЕНТКА,S f anim nom sg
+46623,2,@,@,@,,PUNC,4,1-компл,_,_,,,@,@,@
+46624,3,Как,КАК,ADVPRO -,,ADV -,4,обст,_,_,,,ADV,КАК,ADV -
+46625,4,думаешь,ДУМАТЬ,V ipf praes sg indic - 2p,,V ipf praes sg indic - 2p,0,ROOT,_,_,,,V,ДУМАТЬ,V ipf praes sg indic - 2p
+46626,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+46627,6,в,В,PR,,PR,4,1-компл,_,_,,,PR,В,PR
+46628,7,чём,ЧТО,S n inan loc sg,,S n - loc sg,6,предл,_,_,,,S,ЧТО,S n - loc sg
+46629,8,смысл,СМЫСЛ,S m inan acc sg,,S m inan acc sg,4,сочин,_,_,,,S,СМЫСЛ,S m inan acc sg
+46630,9,короткометражки,КОРОТКОМЕТРАЖКА,S f inan gen sg,,S f inan acc pl,8,сочин,_,_,,,S,КОРОТКОМЕТРАЖКА,S f inan acc pl
+46631,10,?,?,SENT,,SENT,9,PUNC,_,_,,,SENT,?,SENT
+46632,,,,,,,,,,,,,,,
+46633,1,SViBLASH,SVIBLASH,NONLEX,,NONLEX,3,предик,_,_,,,NONLEX,SVIBLASH,NONLEX
+46634,2,@,@,@,,PUNC,3,опред,_,_,,,@,@,@
+46635,3,Я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,11,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46636,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46637,5,если,ЕСЛИ,CONJ,,CONJ,11,обст,_,_,,,CONJ,ЕСЛИ,CONJ
+46638,6,честно,ЧЕСТНО,PARENTH,,ADV -,9,вводн,_,_,,,ADV,ЧЕСТНО,ADV -
+46639,7,",",",",",",,PUNC,6,PUNC,_,_,,,",",",",","
+46640,8,точно,ТОЧНО,ADV -,,ADV -,9,огранич,_,_,,,ADV,ТОЧНО,ADV -
+46641,9,так и,так и,CONJ,,ZERO,5,подч-союзн,_,_,,,CONJ,так и,CONJ
+46642,10,не,НЕ,PART,,PART,11,огранич,_,_,,,PART,НЕ,PART
+46643,11,понял,ПОНЯТЬ,V pf praet sg indic m 1p,,V pf praet sg indic m -,0,ROOT,_,_,,,V,ПОНЯТЬ,V pf praet sg indic m -
+46644,12,.,.,SENT,,SENT,11,PUNC,_,_,,,SENT,.,SENT
+46645,,,,,,,,,,,,,,,
+46646,1,Это,ЭТО,S n inan nom sg,,S n - nom sg,3,1-компл,_,_,,,S,ЭТО,S n - nom sg
+46647,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46648,3,знаете,ЗНАТЬ,V ipf praes pl indic - 2p,,V ipf praes pl indic - 2p,0,ROOT,_,_,,,V,ЗНАТЬ,V ipf praes pl indic - 2p
+46649,4,",",",",",",,PUNC,3,PUNC,_,_,,,",",",",","
+46650,5,фильм,ФИЛЬМ,S m inan nom sg,,S m inan nom sg,3,предик,_,_,,,S,ФИЛЬМ,S m inan nom sg
+46651,6,по,ПО,PR,,PR,5,атриб,_,_,,,PR,ПО,PR
+46652,7,типу,ТИП,S m inan dat sg,,S m inan dat sg,6,предл,_,_,,,S,ТИП,S m inan dat sg
+46653,8,	,_,PUNC,,9,PUNC,_,_,,,,_,_,PUNC
+46654,9,Yellow,YELLOW,NONLEX,,NONLEX,7,примыкат,_,_,,,NONLEX,YELLOW,NONLEX
+46655,10,submarine,SUBMARINE,NONLEX,,NONLEX,9,аппоз,_,_,,,NONLEX,SUBMARINE,NONLEX
+46656,11,	,_,PUNC,,10,PUNC,_,_,,,,_,_,PUNC
+46657,12,:,:,:,,PUNC,5,опред,_,_,,,:,:,:
+46658,13,сначала,СНАЧАЛА,ADV -,,ADV -,14,обст,_,_,,,ADV,СНАЧАЛА,ADV -
+46659,14,нафигачим,НАФИГАЧИТЬ,V pf fut pl indic - 1p,,V ipf praes pl indic - 1p,5,сочин,_,_,,,V,НАФИГАЧИТЬ,V ipf praes pl indic - 1p
+46660,15,кучу,КУЧА,S f inan acc sg,,S f inan acc sg,14,1-компл,_,_,,,S,КУЧА,S f inan acc sg
+46661,16,видео,ВИДЕО,S n inan acc sg,,S n inan nonflex nonflex,15,1-компл,_,_,,,S,ВИДЕО,S n inan nonflex nonflex
+46662,17,-,-,-,,PUNC,16,PUNC,_,_,,,-,-,-
+46663,18,монтажа,МОНТАЖ,S m inan gen sg,,S m inan gen sg,15,квазиагент,_,_,,,S,МОНТАЖ,S m inan gen sg
+46664,19,",",",",",",,PUNC,18,PUNC,_,_,,,",",",",","
+46665,20,а,А,CONJ,,CONJ,14,сочин,_,_,,,CONJ,А,CONJ
+46666,21,потом,ПОТОМ,ADV -,,ADV -,22,обст,_,_,,,ADV,ПОТОМ,ADV -
+46667,22,придумаем,ПРИДУМАТЬ,V pf fut pl indic - 1p,,V pf - pl imper - 1p,20,соч-союзн,_,_,,,V,ПРИДУМАТЬ,V pf - pl imper - 1p
+46668,23,смысл,СМЫСЛ,S m inan acc sg,,S m inan acc sg,22,1-компл,_,_,,,S,СМЫСЛ,S m inan acc sg
+46669,24,;,;,SENT,,SENT,23,PUNC,_,_,,,SENT,;,SENT
+46670,,,,,,,,,,,,,,,
+46671,1,но,НО,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,НО,CONJ
+46672,2,",",",",",",,PUNC,1,PUNC,_,_,,,",",",",","
+46673,3,как,КАК,CONJ,,CONJ,11,вводн,_,_,,,CONJ,КАК,CONJ
+46674,4,я,Я,SPRO sg 1p - nom,,SPRO sg 1p - nom,5,предик,_,_,,,SPRO,Я,SPRO sg 1p - nom
+46675,5,понял,ПОНЯТЬ,V pf praet sg indic m 1p,,V pf praet sg indic m -,3,сравн-союзн,_,_,,,V,ПОНЯТЬ,V pf praet sg indic m -
+46676,6,",",",",",",,PUNC,5,PUNC,_,_,,,",",",",","
+46677,7,как бы,как бы,PART,,-,11,вводн,_,_,,,ADV,как бы,ADV -
+46678,8,",",",",",",,PUNC,7,PUNC,_,_,,,",",",",","
+46679,9,смысл,СМЫСЛ,S m inan nom sg,,S m inan nom sg,11,предик,_,_,,,S,СМЫСЛ,S m inan nom sg
+46680,10,видео,ВИДЕО,S n inan gen sg,,S n inan nonflex nonflex,9,квазиагент,_,_,,,S,ВИДЕО,S n inan nonflex nonflex
+46681,11,в,В,PR,,PR,1,соч-союзн,_,_,,,PR,В,PR
+46682,12,том,ТО,S n inan loc sg,,S n - loc sg,11,предл,_,_,,,S,ТО,S n - loc sg
+46683,13,",",",",",",,PUNC,12,PUNC,_,_,,,",",",",","
+46684,14,что,ЧТО,CONJ,,CONJ,12,эксплет,_,_,,,CONJ,ЧТО,CONJ
+46685,15,всё,ВСЕ,S n inan nom sg,,S n - nom sg,16,предик,_,_,,,S,ВСЕ,S n - nom sg
+46686,16,повторяется,ПОВТОРЯТЬСЯ,V ipf praes sg indic n 3p,,V ipf praes sg indic - 3p,14,подч-союзн,_,_,,,V,ПОВТОРЯТЬСЯ,V ipf praes sg indic - 3p
+46687,17,.,.,SENT,,SENT,16,PUNC,_,_,,,SENT,.,SENT
+46688,,,,,,,,,,,,,,,
+46689,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46690,2,вот,ВОТ,PART,,PART,3,огранич,_,_,,,PART,ВОТ,PART
+46691,3,мы,МЫ,SPRO pl 1p - nom,,SPRO pl 1p - nom,4,предик,_,_,,,SPRO,МЫ,SPRO pl 1p - nom
+46692,4,думаем,ДУМАТЬ,V ipf praes pl indic - 1p,,V ipf praes pl indic - 1p,1,соч-союзн,_,_,,,V,ДУМАТЬ,V ipf praes pl indic - 1p
+46693,5,",",",",",",,PUNC,4,PUNC,_,_,,,",",",",","
+46694,6,то,ТО,CONJ,,S n inan acc sg,4,1-компл,_,_,,,S,ТО,S n inan acc sg
+46695,7,что,ЧТО,CONJ,,CONJ,4,2-компл,_,_,,,CONJ,ЧТО,CONJ
+46696,8,",",",",",",,PUNC,7,PUNC,_,_,,,",",",",","
+46697,9,вот,ВОТ,PART,,PART,12,вводн,_,_,,,PART,ВОТ,PART
+46698,10,",",",",",",,PUNC,9,PUNC,_,_,,,",",",",","
+46699,11,мы,МЫ,SPRO pl 1p - nom,,SPRO pl 1p - nom,12,предик,_,_,,,SPRO,МЫ,SPRO pl 1p - nom
+46700,12,сделали,СДЕЛАТЬ,V pf praet pl indic - 1p,,V pf praet pl indic - -,7,подч-союзн,_,_,,,V,СДЕЛАТЬ,V pf praet pl indic - -
+46701,13,что-то,ЧТО-ТО,S n inan nom sg,,S n - nom sg,18,1-компл,_,_,,,S,ЧТО-ТО,S n - nom sg
+46702,14,новое,НОВЫЙ,A - acc sg plen n 3p,,A - nom sg plen n -,18,предик,_,_,,,A,НОВЫЙ,A - nom sg plen n -
+46703,15,",",",",",",,PUNC,14,PUNC,_,_,,,",",",",","
+46704,16,там,ТАМ,PART,,ADV -,18,вводн,_,_,,,ADV,ТАМ,ADV -
+46705,17,",",",",",",,PUNC,16,PUNC,_,_,,,",",",",","
+46706,18,что-то,ЧТО-ТО,S n inan nom sg,,S n - nom sg,12,1-компл,_,_,,,S,ЧТО-ТО,S n - nom sg
+46707,19,гениальное,ГЕНИАЛЬНЫЙ,A - acc sg plen n 3p,,A - nom sg plen n -,12,2-компл,_,_,,,A,ГЕНИАЛЬНЫЙ,A - nom sg plen n -
+46708,20,",",",",",",,PUNC,19,PUNC,_,_,,,",",",",","
+46709,21,но,НО,CONJ,,CONJ,12,сент-соч,_,_,,,CONJ,НО,CONJ
+46710,22,на,НА,PR,,PR,30,обст,_,_,,,PR,НА,PR
+46711,23,самом,САМЫЙ,A - loc sg plen n 3p,,A - loc sg plen n -,24,опред,_,_,,,A,САМЫЙ,A - loc sg plen n -
+46712,24,деле,ДЕЛО,S n inan loc sg,,S n inan loc sg,22,предл,_,_,,,S,ДЕЛО,S n inan loc sg
+46713,25,до,ДО,PR,,PR,30,обст,_,_,,,PR,ДО,PR
+46714,26,нас,МЫ,SPRO pl 1p - loc,,SPRO pl 1p - loc,25,предл,_,_,,,SPRO,МЫ,SPRO pl 1p - loc
+46715,27,это,ЭТО,S n inan nom sg,,PART,28,огранич,_,_,,,PART,ЭТО,PART
+46716,28,кто-то,КТО-ТО,S m anim nom sg,,S m - nom sg,30,1-компл,_,_,,,S,КТО-ТО,S m - nom sg
+46717,29,уже,УЖЕ,ADV -,,ADV -,30,огранич,_,_,,,ADV,УЖЕ,ADV -
+46718,30,сделал,СДЕЛАТЬ,V pf praet sg indic m 3p,,V pf praet sg indic m -,21,соч-союзн,_,_,,,V,СДЕЛАТЬ,V pf praet sg indic m -
+46719,31,.,.,SENT,,SENT,30,PUNC,_,_,,,SENT,.,SENT
+46720,,,,,,,,,,,,,,,
+46721,1,И,И,CONJ,,CONJ,0,ROOT,_,_,,,CONJ,И,CONJ
+46722,2,всё,ВСЕ,ADV -,,ADV -,3,обст,_,_,,,ADV,ВСЕ,ADV -
+46723,3,повторяется,ПОВТОРЯТЬСЯ,V ipf praes sg indic n 3p,,V ipf praes sg indic - 3p,1,соч-союзн,_,_,,,V,ПОВТОРЯТЬСЯ,V ipf praes sg indic - 3p
+46724,4,.,.,SENT,,SENT,3,PUNC,_,_,,,SENT,.,SENT
+46725,,,,,,,,,,,,,,,
+46726,1,Студентка,СТУДЕНТКА,NONLEX,,S f anim nom sg,3,предик,_,_,,,S,СТУДЕНТКА,S f anim nom sg
+46727,2,@,@,@,,PUNC,3,опред,_,_,,,@,@,@
+46728,3,Спасибо,СПАСИБО,PRAEDIC,,S n inan nonflex nonflex,0,ROOT,_,_,,,S,СПАСИБО,S n inan nonflex nonflex
+46729,4,.,.,SENT,,SENT,3,PUNC,_,_,,,SENT,.,SENT
